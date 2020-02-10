@@ -1,559 +1,1 @@
-"","City","State","Address","lon","lat","Region","Team"
-"1","Alamosa","CO","Alamosa, CO",-105.8700214,37.4694491,"West","Adams State"
-"2","Garden City","NY","Garden City, NY",-73.6342954,40.7267682,"MidAtlantic","Adelphi"
-"3","USAF Academy","CO","USAF Academy, CO",-104.8617533,38.9983573,"West","Air Force"
-"4","Akron","OH","Akron, OH",-81.5190053,41.0814447,"MidWest","Akron"
-"5","Tuscaloosa","AL","Tuscaloosa, AL",-87.5691735,33.2098407,"South","Alabama"
-"6","Fairbanks","AK","Fairbanks, AK",-147.7163888,64.8377778,"Alaska","Alaska Fairbanks"
-"7","Albion","MI","Albion, MI",-84.7530304,42.243097,"MidWest","Albion"
-"8","Reading","PA","Reading, PA",-75.9268747,40.3356483,"MidAtlantic","Albright"
-"9","Alfred","NY","Alfred, NY",-77.7905509,42.2542366,"MidAtlantic","Alfred"
-"10","Alfred","NY","Alfred, NY",-77.7905509,42.2542366,"MidAtlantic","Alfred State"
-"11","Meadville","PA","Meadville, PA",-80.1514484,41.6414438,"MidAtlantic","Allegheny"
-"12","Alma","MI","Alma, MI",-84.6597274,43.3789199,"MidWest","Alma"
-"13","Washington","DC","Washington, DC",-77.0368707,38.9071923,"MidAtlantic","American"
-"14","Amherst","MA","Amherst, MA",-72.5198537,42.3732216,"NewEngland","Amherst"
-"15","Anderson","IN","Anderson, IN",-85.6802541,40.1053196,"MidWest","Anderson"
-"16","Glenside","PA","Glenside, PA",-75.1527928,40.0999077,"MidAtlantic","Arcadia"
-"17","Tucson","AZ","Tucson, AZ",-110.9747108,32.2226066,"SouthWest","Arizona"
-"18","Tempe","AZ","Tempe, AZ",-111.9400054,33.4255104,"SouthWest","Arizona State"
-"19","Fayetteville","AR","Fayetteville, AR",-94.1718542,36.082156,"South","Arkansas"
-"20","Little Rock","AR","Little Rock, AR",-92.2895948,34.7464809,"South","Arkansas Little Rock"
-"21","West Point","NY","West Point, NY",-73.9559721,41.3914827,"MidAtlantic","Army"
-"22","Ashland","OH","Ashland, OH",-82.3182178,40.8686675,"MidWest","Ashland"
-"23","Worcester","MA","Worcester, MA",-71.8022934,42.2625932,"NewEngland","Assumption"
-"24","Auburn","AL","Auburn, AL",-85.4807825,32.6098566,"South","Auburn"
-"25","Minneapolis","MN","Minneapolis, MN",-93.2650108,44.977753,"MidWest","Augsburg"
-"26","Sioux Falls","SD","Sioux Falls, SD",-96.728333,43.5473028,"West","Augustana"
-"27","Sherman","TX","Sherman, TX",-96.6088805,33.6356618,"SouthWest","Austin"
-"28","Azusa","CA","Azusa, CA",-117.9075627,34.1336186,"Pacific","Azusa Pacific"
-"29","Babson","MA","Babson, MA",-71.2657077,42.2964421,"NewEngland","Babson"
-"30","Berea","OH","Berea, OH",-81.8543026,41.3661614,"MidWest","Baldwin Wallace"
-"31","Muncie","IN","Muncie, IN",-85.3863599,40.1933767,"MidWest","Ball State"
-"32","Annandale on Hudson","NY","Annandale on Hudson, NY",-73.9095279,42.0218762,"MidAtlantic","Bard"
-"33","Wilson","NC","Wilson, NC",-77.9155395,35.7212689,"South","Barton"
-"34","New York","NY","New York, NY",-74.0059728,40.7127753,"MidAtlantic","Baruch"
-"35","Lewiston","ME","Lewiston, ME",-70.2147764,44.100351,"NewEngland","Bates"
-"36","Erie","PA","Erie, PA",-80.085059,42.1292241,"MidAtlantic","Behrend"
-"37","Louisville","KY","Louisville, KY",-85.7584557,38.2526647,"South","Bellarmine"
-"38","Beloit","WI","Beloit, WI",-89.0317765,42.5083482,"MidWest","Beloit"
-"39","Waltham","MA","Waltham, MA",-71.2356113,42.3764852,"NewEngland","Bentley"
-"40","Mount Berry","GA","Mount Berry, GA",-85.1832843,34.275093,"South","Berry"
-"41","Bethany","WV","Bethany, WV",-80.5567384,40.205627,"MidAtlantic","Bethany"
-"42",NA,NA,NA,NA,NA,NA,"Biola University"
-"43","Birmingham","AL","Birmingham, AL",-86.8103567,33.5185892,"South","Birmingham Southern"
-"44","Bloomsburg","PA","Bloomsburg, PA",-76.4549457,41.003698,"MidAtlantic","Bloomsburg"
-"45","Boise","ID","Boise, ID",-116.2023137,43.6150186,"West","Boise State"
-"46","Boston","MA","Boston, MA",-71.0588801,42.3600825,"NewEngland","Boston"
-"47","Chestnut Hill","MA","Chestnut Hill, MA",-71.166187,42.3303798,"NewEngland","Boston College"
-"48","Brunswick","ME","Brunswick, ME",-69.966996,43.9140162,"NewEngland","Bowdoin"
-"49","Bowling Green","OH","Bowling Green, OH",-83.6513229,41.3747744,"MidWest","Bowling Green State"
-"50","Waltham","MA","Waltham, MA",-71.2356113,42.3764852,"NewEngland","Brandeis"
-"51","Bridgeport","CT","Bridgeport, CT",-73.1894384,41.1792258,"NewEngland","Bridgeport"
-"52","Bridgewater","VA","Bridgewater, VA",-78.976696,38.3820706,"MidAtlantic","Bridgewater"
-"53","Bridgewater","MA","Bridgewater, MA",-70.9750541,41.9903519,"NewEngland","Bridgewater State"
-"54","Provo","UT","Provo, UT",-111.6585337,40.2338438,"West","Brigham Young"
-"55","Providence","RI","Providence, RI",-71.4128343,41.8239891,"NewEngland","Brown"
-"56","Smithfield","RI","Smithfield, RI",-71.5495101,41.9220496,"NewEngland","Bryant"
-"57","Bryn Mawr","PA","Bryn Mawr, PA",-75.3151772,40.0230237,"MidAtlantic","Bryn Mawr"
-"58","Lewisburg","PA","Lewisburg, PA",-76.8844101,40.9645293,"MidAtlantic","Bucknell"
-"59","Buffalo","NY","Buffalo, NY",-78.8783689,42.8864468,"MidAtlantic","Buffalo"
-"60","Indianapolis","IN","Indianapolis, IN",-86.158068,39.768403,"MidWest","Butler"
-"61",NA,NA,NA,NA,NA,NA,"CSUB"
-"62","Radnor","PA","Radnor, PA",-75.3599105,40.0462208,"MidAtlantic","Cabrini"
-"63",NA,NA,NA,NA,NA,NA,"Cal Baptist"
-"64","San Luis Obispo","CA","San Luis Obispo, CA",-120.6596156,35.2827524,"Pacific","Cal Poly"
-"65","Hayward","CA","Hayward, CA",-122.0807964,37.6688205,"Pacific","Cal State East Bay"
-"66","Berkeley","CA","Berkeley, CA",-122.272747,37.8715926,"Pacific","California"
-"67","Thousand Oaks","CA","Thousand Oaks, CA",-118.8375937,34.1705609,"Pacific","California Lutheran"
-"68","California","PA","California, PA",-79.8917139,40.0656291,"MidAtlantic","California Pennsylvania"
-"69","Pasadena","CA","Pasadena, CA",-118.1445155,34.1477849,"Pacific","Caltech"
-"70","Grand Rapids","MI","Grand Rapids, MI",-85.6680863,42.9633599,"MidWest","Calvin"
-"71","Buies Creek","NC","Buies Creek, NC",-78.7355728,35.4132168,"South","Campbell"
-"72","Buffalo","NY","Buffalo, NY",-78.8783689,42.8864468,"MidAtlantic","Canisius"
-"73","Northfield","MN","Northfield, MN",-93.161604,44.4582983,"MidWest","Carleton"
-"74","Pittsburgh","PA","Pittsburgh, PA",-79.9958864,40.4406248,"MidAtlantic","Carnegie Mellon"
-"75","Helena","MT","Helena, MT",-112.0391057,46.5891452,"West","Carroll"
-"76","Jefferson City","TN","Jefferson City, TN",-83.492396,36.122311,"South","Carson-Newman"
-"77","Kenosha","WI","Kenosha, WI",-87.8211854,42.5847425,"MidWest","Carthage"
-"78","Cleveland","OH","Cleveland, OH",-81.6943605,41.49932,"MidWest","Case Western"
-"79","Salisbury","NC","Salisbury, NC",-80.4742261,35.6709727,"South","Catawba"
-"80","Washington","DC","Washington, DC",-77.0368707,38.9071923,"MidAtlantic","Catholic"
-"81","Cazenovia","NY","Cazenovia, NY",-75.8526915,42.9300668,"MidAtlantic","Cazenovia"
-"82","Allentown","PA","Allentown, PA",-75.4714098,40.6022939,"MidAtlantic","Cedar Crest"
-"83","Shreveport","LA","Shreveport, LA",-93.7501789,32.5251516,"South","Centenary of Louisiana"
-"84","New Britain","CT","New Britain, CT",-72.7795419,41.6612104,"NewEngland","Central Connecticut State"
-"85","Danville","KY","Danville, KY",-84.7721702,37.6456329,"South","Centre College"
-"86","Orange","CA","Orange, CA",-117.8531007,33.7879139,"Pacific","Chapman"
-"87","Pittsburgh","PA","Pittsburgh, PA",-79.9958864,40.4406248,"MidAtlantic","Chatham"
-"88","Chicago","IL","Chicago, IL",-87.6297982,41.8781136,"MidWest","Chicago"
-"89","Murfreesboro","NC","Murfreesboro, NC",-77.0985752,36.4423754,"South","Chowan"
-"90","Cincinnati","OH","Cincinnati, OH",-84.5120196,39.1031182,"MidWest","Cincinnati"
-"91","Claremont","CA","Claremont, CA",-117.7197785,34.0966764,"Pacific","Claremont MS"
-"92","Clarion","PA","Clarion, PA",-79.3853218,41.2147851,"MidAtlantic","Clarion"
-"93","Worcester","MA","Worcester, MA",-71.8022934,42.2625932,"NewEngland","Clark"
-"94","Potsdam","NY","Potsdam, NY",-74.9813084,44.6697805,"MidAtlantic","Clarkson"
-"95","Cleveland","OH","Cleveland, OH",-81.6943605,41.49932,"MidWest","Cleveland State"
-"96","New London","CT","New London, CT",-72.0995209,41.3556539,"NewEngland","Coast Guard"
-"97","Cedar Rapids","IA","Cedar Rapids, IA",-91.6656232,41.9778795,"MidWest","Coe"
-"98","Waterville","ME","Waterville, ME",-69.6317121,44.5520105,"NewEngland","Colby"
-"99","New London","NH","New London, NH",-71.975699,43.4284925,"NewEngland","Colby-Sawyer"
-"100","Hamilton","NY","Hamilton, NY",-75.5446238,42.8270136,"MidAtlantic","Colgate"
-"101","Colorado Springs","CO","Colorado Springs, CO",-104.8213634,38.8338816,"West","Colorado College"
-"102","Grand Junction","CO","Grand Junction, CO",-108.5506486,39.0638705,"West","Colorado Mesa"
-"103","Golden","CO","Golden, CO",-105.2210997,39.755543,"West","Colorado School of Mines"
-"104","Fort Collins","CO","Fort Collins, CO",-105.084423,40.5852602,"West","Colorado State"
-"105","Pueblo","CO","Pueblo, CO",-104.6091409,38.2544472,"West","Colorado State Pueblo"
-"106","New York","NY","New York, NY",-74.0059728,40.7127753,"MidAtlantic","Columbia"
-"107","Bronxville","NY","Bronxville, NY",-73.8320784,40.9381544,"MidAtlantic","Concordia"
-"108","Irvine","CA","Irvine, CA",-117.8265049,33.6845673,"Pacific","Concordia Irvine"
-"109","New London","CT","New London, CT",-72.0995209,41.3556539,"NewEngland","Connecticut"
-"110","Spartanburg","SC","Spartanburg, SC",-81.9320482,34.9495672,"South","Converse"
-"111","Ithaca","NY","Ithaca, NY",-76.5018807,42.4439614,"MidAtlantic","Cornell"
-"112","Hanover","NH","Hanover, NH",-72.2895526,43.7022451,"NewEngland","Dartmouth"
-"113","Grand Rapids","MI","Grand Rapids, MI",-85.6680863,42.9633599,"MidWest","Davenport"
-"114","Davidson","NC","Davidson, NC",-80.8486846,35.4993031,"South","Davidson"
-"115","Elkins","WV","Elkins, WV",-79.8467349,38.9259397,"MidAtlantic","Davis & Elkins"
-"116","Greencastle","IN","Greencastle, IN",-86.8647316,39.6444898,"MidWest","DePauw"
-"117","Newark","DE","Newark, DE",-75.7496572,39.6837226,"MidAtlantic","Delaware"
-"118","Cleveland","MS","Cleveland, MS",-90.7248187,33.7440023,"South","Delta State"
-"119","Granville","OH","Granville, OH",-82.5196037,40.0681192,"MidWest","Denison"
-"120","Denver","CO","Denver, CO",-104.990251,39.7392358,"West","Denver"
-"121","Carlisle","PA","Carlisle, PA",-77.2002745,40.2010241,"MidAtlantic","Dickinson"
-"122","Saint George","UT","Saint George, UT",-113.5684164,37.0965278,"West","Dixie State"
-"123","Madison","NJ","Madison, NJ",-74.417097,40.7598227,"MidAtlantic","Drew"
-"124","Philadelphia","PA","Philadelphia, PA",-75.1652215,39.9525839,"MidAtlantic","Drexel"
-"125","Springfield","MO","Springfield, MO",-93.2922989,37.2089572,"MidWest","Drury"
-"126","Philadelphia","PA","Philadelphia, PA",-75.1652215,39.9525839,"MidAtlantic","Duke"
-"127","Pittsburgh","PA","Pittsburgh, PA",-79.9958864,40.4406248,"MidAtlantic","Duquesne"
-"128","Greenville","NC","Greenville, NC",-77.3663538,35.612661,"South","East Carolina"
-"129","East Stroudsburg","PA","East Stroudsburg, PA",-75.1812913,40.9995386,"MidAtlantic","East Stroudsburg"
-"130","Willimantic","CT","Willimantic, CT",-72.2081338,41.7106543,"NewEngland","Eastern Connecticut"
-"131","Charleston","IL","Charleston, IL",-88.1761521,39.4961458,"MidWest","Eastern Illinois"
-"132","Ypsilanti","MI","Ypsilanti, MI",-83.6129939,42.2411499,"MidWest","Eastern Michigan"
-"133","Edinboro","PA","Edinboro, PA",-80.1317236,41.8742225,"MidAtlantic","Edinboro"
-"134","Elizabethtown","PA","Elizabethtown, PA",-76.6027455,40.1528719,"MidAtlantic","Elizabethtown"
-"135","Chicopee","MA","Chicopee, MA",-72.6078672,42.1487043,"NewEngland","Elms"
-"136","Boston","MA","Boston, MA",-71.0588801,42.3600825,"NewEngland","Emmanuel"
-"137","Atlanta","GA","Atlanta, GA",-84.3879824,33.7489954,"South","Emory"
-"138","Emory","VA","Emory, VA",-81.834939,36.773811,"MidAtlantic","Emory & Henry"
-"139","Evansville","IN","Evansville, IN",-87.5710898,37.9715592,"MidWest","Evansville"
-"140","Fairfield","CT","Fairfield, CT",-73.2612615,41.1408363,"NewEngland","Fairfield"
-"141","Madison","NJ","Madison, NJ",-74.417097,40.7598227,"MidAtlantic","Fairleigh Dickinson Florham"
-"142","Fairmont","WV","Fairmont, WV",-80.1425781,39.4850848,"MidAtlantic","Fairmont State"
-"143","Ferrum","VA","Ferrum, VA",-80.0133712,36.9229159,"MidAtlantic","Ferrum"
-"144","Findlay","OH","Findlay, OH",-83.6499321,41.04422,"MidWest","Findlay"
-"145","Gainesville","FL","Gainesville, FL",-82.3248262,29.6516344,"South","Florida"
-"146","Boca Raton","FL","Boca Raton, FL",-80.1289321,26.3683064,"South","Florida Atlantic"
-"147","Fort Myers","FL","Fort Myers, FL",-81.8723084,26.640628,"South","Florida Gulf Coast"
-"148","Miami","FL","Miami, FL",-80.1917902,25.7616798,"South","Florida International"
-"149","Lakeland","FL","Lakeland, FL",-81.9498042,28.0394654,"South","Florida Southern"
-"150","Tallahassee","FL","Tallahassee, FL",-84.2807329,30.4382559,"South","Florida State"
-"151","Melbourne","FL","Melbourne, FL",-80.6081089,28.0836269,"South","Florida Tech"
-"152","New York","NY","New York, NY",-74.0059728,40.7127753,"MidAtlantic","Fordham"
-"153","Steubenville","OH","Steubenville, OH",-80.6339638,40.3697905,"MidWest","Franciscan University of Steubenville"
-"154","Franklin","IN","Franklin, IN",-86.0549863,39.4806055,"MidWest","Franklin"
-"155","Lancaster","PA","Lancaster, PA",-76.1783739,40.0466571,"MidAtlantic","Franklin and Marshall"
-"156","Fresno","CA","Fresno, CA",-119.7871247,36.7377981,"Pacific","Fresno Pacific"
-"157","Fresno","CA","Fresno, CA",-119.7871247,36.7377981,"Pacific","Fresno State"
-"158","Frostburg","MD","Frostburg, MD",-78.928357,39.6581424,"MidAtlantic","Frostburg State"
-"159","Washington","DC","Washington, DC",-77.0368707,38.9071923,"MidAtlantic","Gallaudet"
-"160","Erie","PA","Erie, PA",-80.085059,42.1292241,"MidAtlantic","Gannon"
-"161","Boiling Springs","NC","Boiling Springs, NC",-81.6670407,35.254292,"South","Gardner-Webb"
-"162","Newberg","OR","Newberg, OR",-122.9469406,45.3064628,"Pacific","George Fox"
-"163","Fairfax","VA","Fairfax, VA",-77.3063733,38.8462236,"MidAtlantic","George Mason"
-"164","Washington","DC","Washington, DC",-77.0368707,38.9071923,"MidAtlantic","George Washington"
-"165","Washington","DC","Washington, DC",-77.0368707,38.9071923,"MidAtlantic","Georgetown"
-"166","Athens","GA","Athens, GA",-83.357567,33.9519347,"South","Georgia"
-"167","Statesboro","GA","Statesboro, GA",-81.7831674,32.4487876,"South","Georgia Southern"
-"168","Atlanta","GA","Atlanta, GA",-84.3879824,33.7489954,"South","Georgia Tech"
-"169","Gettysburg","PA","Gettysburg, PA",-77.2310955,39.8309293,"MidAtlantic","Gettysburg"
-"170","Wenham","MA","Wenham, MA",-70.8911612,42.604261,"NewEngland","Gordon"
-"171","Baltimore","MD","Baltimore, MD",-76.6121893,39.2903848,"MidAtlantic","Goucher"
-"172","Phoenix","AZ","Phoenix, AZ",-112.0740373,33.4483771,"SouthWest","Grand Canyon"
-"173","Allendale","MI","Allendale, MI",-85.9540407,42.9721934,"MidWest","Grand Valley State"
-"174","Greensboro","NC","Greensboro, NC",-79.7919754,36.0726354,"South","Greensboro"
-"175","Grinnell","IA","Grinnell, IA",-92.7232456,41.7434092,"MidWest","Grinnell"
-"176","Grove City","PA","Grove City, PA",-80.0886703,41.1578377,"MidAtlantic","Grove City"
-"177","Greensboro","NC","Greensboro, NC",-79.7919754,36.0726354,"South","Guilford"
-"178","St. Peter","MN","St. Peter, MN",-93.955691,44.3258932,"MidWest","Gustavus Adolphus"
-"179","Clinton","NY","Clinton, NY",-75.3785034,43.0484029,"MidAtlantic","Hamilton"
-"180","St. Paul","MN","St. Paul, MN",-93.0899578,44.9537029,"MidWest","Hamline"
-"181","Hampden-Sydney","VA","Hampden-Sydney, VA",-78.4597173,37.2423746,"MidAtlantic","Hampden-Sydney"
-"182","Hanover","IN","Hanover, IN",-85.4735707,38.7142263,"MidWest","Hanover"
-"183","Oneonta","NY","Oneonta, NY",-75.0637746,42.4528571,"MidAtlantic","Hartwick"
-"184","Cambridge","MA","Cambridge, MA",-71.1097335,42.3736158,"NewEngland","Harvard"
-"185","Honolulu","HI","Honolulu, HI",-157.8583333,21.3069444,"Hawaii","Hawaii"
-"186","Arkadelphia","AR","Arkadelphia, AR",-93.0537839,34.1209292,"South","Henderson State"
-"187","Conway","AR","Conway, AR",-92.4421011,35.0886963,"South","Hendrix"
-"188","Hillsdale","MI","Hillsdale, MI",-84.6305101,41.9200472,"MidWest","Hillsdale"
-"189","Hiram","OH","Hiram, OH",-81.1437098,41.3125552,"MidWest","Hiram"
-"190","Roanoke","VA","Roanoke, VA",-79.9414266,37.2709704,"MidAtlantic","Hollins"
-"191","New Orleans","LA","New Orleans, LA",-90.0715323,29.9510658,"South","Holy Cross"
-"192","Frederick","MD","Frederick, MD",-77.4105409,39.4142688,"MidAtlantic","Hood"
-"193","Holland","MI","Holland, MI",-86.1089301,42.7875235,"MidWest","Hope College"
-"194","Houston","TX","Houston, TX",-95.3698028,29.7604267,"SouthWest","Houston"
-"195","Washington","DC","Washington, DC",-77.0368707,38.9071923,"MidAtlantic","Howard"
-"196","New York","NY","New York, NY",-74.0059728,40.7127753,"MidAtlantic","Hunter"
-"197","Bangor","ME","Bangor, ME",-68.7712257,44.8016128,"NewEngland","Husson"
-"198","Indiana","PA","Indiana, PA",-79.1096901,40.6850762,"MidAtlantic","IUP"
-"199","Indianapolis","IN","Indianapolis, IN",-86.158068,39.768403,"MidWest","IUPUI"
-"200","Caldwell","ID","Caldwell, ID",-116.6873596,43.6629384,"West","Idaho"
-"201","Champaign","IL","Champaign, IL",-88.2433829,40.1164204,"MidWest","Illinois"
-"202","Houghton","NY","Houghton, NY",-78.1572319,42.4233981,"MidAtlantic","Illinois College"
-"203","Normal","IL","Normal, IL",-88.9906312,40.5142026,"MidWest","Illinois State"
-"204","Chicago","IL","Chicago, IL",-87.6297982,41.8781136,"MidWest","Illinois Tech"
-"205","Bloomington","IL","Bloomington, IL",-88.9936873,40.4842027,"MidWest","Illinois Wesleyan"
-"206","Chicago","IL","Chicago, IL",-87.6297982,41.8781136,"MidWest","Illinois-Chicago"
-"207","Immaculata","PA","Immaculata, PA",-75.5705399,40.0279142,"MidAtlantic","Immaculata"
-"208","San Antonio","TX","San Antonio, TX",-98.4936282,29.4241219,"SouthWest","Incarnate Word"
-"209","Bloomington","IN","Bloomington, IN",-86.5263857,39.165325,"MidWest","Indiana"
-"210","Terre Haute","IN","Terre Haute, IN",-87.4139092,39.4667034,"MidWest","Indiana State"
-"211","Indianapolis","IN","Indianapolis, IN",-86.158068,39.768403,"MidWest","Indianapolis"
-"212","New Rochelle","NY","New Rochelle, NY",-73.7823549,40.9114882,"MidAtlantic","Iona"
-"213","Iowa City","IA","Iowa City, IA",-91.5301683,41.6611277,"MidWest","Iowa"
-"214","Ames","IA","Ames, IA",-93.6319131,42.0307812,"MidWest","Iowa State"
-"215","Ithaca","NY","Ithaca, NY",-76.5018807,42.4439614,"MidAtlantic","Ithaca"
-"216","Harrisonburg","VA","Harrisonburg, VA",-78.8689155,38.4495688,"MidAtlantic","James Madison"
-"217","University Heights","OH","University Heights, OH",-81.5373456,41.4978306,"MidWest","John Carroll"
-"218","New York","NY","New York, NY",-74.0059728,40.7127753,"MidAtlantic","John Jay"
-"219","Baltimore","MD","Baltimore, MD",-76.6121893,39.2903848,"MidAtlantic","Johns Hopkins"
-"220","Huntingdon","PA","Huntingdon, PA",-78.0195387,40.4155273,"MidAtlantic","Juniata"
-"221","Kalamazoo","MI","Kalamazoo, MI",-85.5872286,42.2917069,"MidWest","Kalamazoo"
-"222","Lawrence","KS","Lawrence, KS",-95.2352501,38.9716689,"West","Kansas"
-"223","Union","NJ","Union, NJ",-74.2631635,40.6975898,"MidAtlantic","Kean"
-"224","Keene","NH","Keene, NH",-72.2781409,42.933692,"NewEngland","Keene State"
-"225","Lexington","KY","Lexington, KY",-84.5037164,38.0405837,"South","Kentucky"
-"226","Gambier","OH","Gambier, OH",-82.3971038,40.3756194,"MidWest","Kenyon"
-"227","Bristol","TN","Bristol, TN",-82.1887444,36.5951059,"South","King"
-"228","Wilkes-Barre","PA","Wilkes-Barre, PA",-75.8813075,41.2459149,"MidAtlantic","King's"
-"229","Galesburg","IL","Galesburg, IL",-90.3712395,40.9478158,"MidWest","Knox"
-"230","Kutztown","PA","Kutztown, PA",-75.7774177,40.5173165,"MidAtlantic","Kutztown"
-"231","Brooklyn","NY","Brooklyn, NY",-73.9441579,40.6781784,"MidAtlantic","LIU Brooklyn"
-"232","Brookville","NY","Brookville, NY",-73.5673482,40.8131553,"MidAtlantic","LIU Post"
-"233",NA,NA,NA,NA,NA,NA,"LSU"
-"234","Philadelphia","PA","Philadelphia, PA",-75.1652215,39.9525839,"MidAtlantic","La Salle"
-"235","La Verne","CA","La Verne, CA",-117.7678355,34.1008426,"Pacific","La Verne"
-"236","LaGrange","GA","LaGrange, GA",-85.0322444,33.0362218,"South","LaGrange"
-"237","Easton","PA","Easton, PA",-75.2207323,40.688432,"MidAtlantic","Lafayette"
-"238","Lake Forest","IL","Lake Forest, IL",-87.840625,42.2586342,"MidWest","Lake Forest"
-"239","Appleton","WI","Appleton, WI",-88.4153847,44.2619309,"MidWest","Lawrence"
-"240","Syracuse","NY","Syracuse, NY",-76.1474244,43.0481221,"MidAtlantic","Le Moyne"
-"241","Annville","PA","Annville, PA",-76.5152443,40.3295359,"MidAtlantic","Lebanon Valley"
-"242","Banner Elk","NC","Banner Elk, NC",-81.8715019,36.1631817,"South","Lees-McRae"
-"243","Bethlehem","PA","Bethlehem, PA",-75.3704579,40.6259316,"MidAtlantic","Lehigh"
-"244","Bronx","NY","Bronx, NY",-73.8648268,40.8447819,"MidAtlantic","Lehman"
-"245","Hickory","NC","Hickory, NC",-81.3444573,35.7344538,"South","Lenoir-Rhyne"
-"246","Romeoville","IL","Romeoville, IL",-88.0895061,41.6475306,"MidWest","Lewis"
-"247","Portland","OR","Portland, OR",-122.6587185,45.5122308,"Pacific","Lewis & Clark"
-"248","Lynchburg","VA","Lynchburg, VA",-79.1422464,37.4137536,"MidAtlantic","Liberty"
-"249","St. Charles","MO","St. Charles, MO",-90.4974359,38.7881062,"MidWest","Lindenwood"
-"250","McMinnville","OR","McMinnville, OR",-123.1987163,45.2101162,"Pacific","Linfield"
-"251","Lock Haven","PA","Lock Haven, PA",-77.4469263,41.1370133,"MidAtlantic","Lock Haven"
-"252","Dubuque","IA","Dubuque, IA",-90.6645718,42.5005583,"MidWest","Loras"
-"253","Louisville","KY","Louisville, KY",-85.7584557,38.2526647,"South","Louisville"
-"254","Baltimore","MD","Baltimore, MD",-76.6121893,39.2903848,"MidAtlantic","Loyola Maryland"
-"255","Los Angeles","CA","Los Angeles, CA",-118.2436849,34.0522342,"Pacific","Loyola Marymount"
-"256","Decorah","IA","Decorah, IA",-91.7857092,43.3033056,"MidWest","Luther"
-"257","Williamsport","PA","Williamsport, PA",-77.0010786,41.2411897,"MidAtlantic","Lycoming"
-"258","Boca Raton","FL","Boca Raton, FL",-80.1289321,26.3683064,"South","Lynn"
-"259","Cambridge","MA","Cambridge, MA",-71.1097335,42.3736158,"NewEngland","MIT"
-"260","St. Paul","MN","St. Paul, MN",-93.0899578,44.9537029,"MidWest","Macalester"
-"261","Orono","ME","Orono, ME",-68.6719411,44.8831125,"NewEngland","Maine"
-"262","Castine","ME","Castine, ME",-68.7989582,44.3888609,"NewEngland","Maine Maritime"
-"263","Canton","OH","Canton, OH",-81.378447,40.7989473,"MidWest","Malone"
-"264","North Manchester","IN","North Manchester, IN",-85.768597,41.0006005,"MidWest","Manchester"
-"265","Riverdale","NY","Riverdale, NY",-73.9109977,40.8940853,"MidAtlantic","Manhattan"
-"266","Poughkeepsie","NY","Poughkeepsie, NY",-73.9209701,41.7003713,"MidAtlantic","Marist"
-"267","Mars Hill","NC","Mars Hill, NC",-82.5492999,35.8264981,"South","Mars Hill"
-"268","Huntington","WV","Huntington, WV",-82.445154,38.4192496,"MidAtlantic","Marshall"
-"269","Bismarck","ND","Bismarck, ND",-100.7837392,46.8083268,"West","Mary"
-"270","Fredericksburg","VA","Fredericksburg, VA",-77.4605399,38.3031837,"MidAtlantic","Mary Washington"
-"271","Arlington","VA","Arlington, VA",-77.0909809,38.8816208,"MidAtlantic","Marymount"
-"272","Maryville","TN","Maryville, TN",-83.9704593,35.7564719,"South","Maryville"
-"273","Scranton","PA","Scranton, PA",-75.6624122,41.408969,"MidAtlantic","Marywood"
-"274","Amherst","MA","Amherst, MA",-72.5198537,42.3732216,"NewEngland","Massachusetts"
-"275","Westminster","MD","Westminster, MD",-76.9958149,39.5753791,"MidAtlantic","McDaniel"
-"276","Lebanon","IL","Lebanon, IL",-89.8073195,38.6039375,"MidWest","McKendree"
-"277","Abilene","TX","Abilene, TX",-99.7331439,32.4487364,"SouthWest","McMurry"
-"278","North Andover","MA","North Andover, MA",-71.1350575,42.6987024,"NewEngland","Merrimack"
-"279","Mechanicsburg","PA","Mechanicsburg, PA",-77.0085876,40.2142565,"MidAtlantic","Messiah"
-"280","Coral Gables","FL","Coral Gables, FL",-80.2635411,25.7491968,"South","Miami"
-"281","Oxford","OH","Oxford, OH",-84.745231,39.5069974,"MidWest","Miami OH"
-"282","Ann Arbor","MI","Ann Arbor, MI",-83.7430378,42.2808256,"MidWest","Michigan"
-"283","East Lansing","MI","East Lansing, MI",-84.4838654,42.7369792,"MidWest","Michigan State"
-"284","Middlebury","VT","Middlebury, VT",-73.16734,44.0153371,"NewEngland","Middlebury"
-"285",NA,NA,NA,NA,NA,NA,"Millersville"
-"286","Decatur","IL","Decatur, IL",-88.9548001,39.8403147,"MidWest","Millikin"
-"287","Oakland","CA","Oakland, CA",-122.2711137,37.8043637,"Pacific","Mills"
-"288","Minneapolis","MN","Minneapolis, MN",-93.2650108,44.977753,"MidWest","Minnesota"
-"289","Mankato","MN","Mankato, MN",-93.9993996,44.1635775,"MidWest","Minnesota State Mankato"
-"290","Moorhead","MN","Moorhead, MN",-96.7678039,46.8737648,"MidWest","Minnesota State Moorhead"
-"291","Morris","MN","Morris, MN",-95.9188889,45.5919444,"MidWest","Minnesota-Morris"
-"292","Dallas","PA","Dallas, PA",-75.9632546,41.3361911,"MidAtlantic","Misericordia"
-"293","Columbia","MO","Columbia, MO",-92.3340724,38.9517053,"MidWest","Missouri"
-"294","Rolla","MO","Rolla, MO",-91.7715303,37.948544,"MidWest","Missouri S&T"
-"295","St. Louis","MO","St. Louis, MO",-90.1994042,38.6270025,"MidWest","Missouri Saint Louis"
-"296","Springfield","MO","Springfield, MO",-93.2922989,37.2089572,"MidWest","Missouri State"
-"297","Monmouth","IL","Monmouth, IL",-90.6473576,40.9114271,"MidWest","Monmouth"
-"298","Montclair","NJ","Montclair, NJ",-74.2090053,40.8259007,"MidAtlantic","Montclair State"
-"299","South Hadley","MA","South Hadley, MA",-72.5747934,42.2591729,"NewEngland","Mount Holyoke"
-"300","Newburgh","NY","Newburgh, NY",-74.0104178,41.5034271,"MidAtlantic","Mount Saint Mary"
-"301","Emmitsburg","MD","Emmitsburg, MD",-77.3269307,39.7045417,"MidAtlantic","Mount Saint Mary's"
-"302","Alliance","OH","Alliance, OH",-81.1059309,40.9153362,"MidWest","Mount Union"
-"303","Raleigh","NC","Raleigh, NC",-78.6381787,35.7795897,"South","NC State"
-"304","New York","NY","New York, NY",-74.0059728,40.7127753,"MidAtlantic","NYU"
-"305","Annapolis","MD","Annapolis, MD",-76.4921829,38.9784453,"MidAtlantic","Navy"
-"306","Rochester","NY","Rochester, NY",-77.6088465,43.1565779,"MidAtlantic","Nazareth"
-"307","Lincoln","NE","Lincoln, NE",-96.7025955,40.813616,"West","Nebraska"
-"308","Kearney","NE","Kearney, NE",-99.0816784,40.6993303,"West","Nebraska Kearney"
-"309","Lincoln","NE","Lincoln, NE",-96.7025955,40.813616,"West","Nebraska Wesleyan"
-"310","Reno","NV","Reno, NV",-119.8138027,39.5296329,"West","Nevada"
-"311","Biddeford","ME","Biddeford, ME",-70.4533844,43.4925843,"NewEngland","New England"
-"312","Durham","NH","Durham, NH",-70.9264393,43.1339545,"NewEngland","New Hampshire"
-"313","Newark","NJ","Newark, NJ",-74.1723667,40.735657,"MidAtlantic","New Jersey Tech"
-"314","Albuquerque","NM","Albuquerque, NM",-106.650422,35.0843859,"SouthWest","New Mexico"
-"315","Las Cruces","NM","Las Cruces, NM",-106.7636538,32.3199396,"SouthWest","New Mexico State"
-"316","New Rochelle","NY","New Rochelle, NY",-73.7823549,40.9114882,"MidAtlantic","New Rochelle"
-"317","Niagara University","NY","Niagara University, NY",-79.0353197,43.1365152,"MidAtlantic","Niagara"
-"318","Minneapolis","MN","Minneapolis, MN",-93.2650108,44.977753,"MidWest","North Central"
-"319","Jacksonville","FL","Jacksonville, FL",-81.655651,30.3321838,"South","North Florida"
-"320","Denton","TX","Denton, TX",-97.1330683,33.2148412,"SouthWest","North Texas"
-"321","Boston","MA","Boston, MA",-71.0588801,42.3600825,"NewEngland","Northeastern"
-"322","Flagstaff","AZ","Flagstaff, AZ",-111.651302,35.1982836,"SouthWest","Northern Arizona"
-"323","Greeley","CO","Greeley, CO",-104.7091322,40.4233142,"West","Northern Colorado"
-"324","Cedar Falls","IA","Cedar Falls, IA",-92.4453161,42.5348993,"MidWest","Northern Iowa"
-"325","Aberdeen","SD","Aberdeen, SD",-98.4864829,45.4646985,"West","Northern State"
-"326","Evanston","IL","Evanston, IL",-87.6876969,42.0450722,"MidWest","Northwestern"
-"327","Northfield","VT","Northfield, VT",-72.6564986,44.1511723,"NewEngland","Norwich"
-"328","Notre Dame","IN","Notre Dame, IN",-86.2379328,41.7001908,"MidWest","Notre Dame"
-"329","Cleveland","OH","Cleveland, OH",-81.6943605,41.49932,"MidWest","Notre Dame College"
-"330","Ft. Lauderdale","FL","Ft. Lauderdale, FL",-80.1373174,26.1224386,"South","Nova Southeastern"
-"331","Rochester","MI","Rochester, MI",-83.1338214,42.680588,"MidWest","Oakland"
-"332","Oberlin","OH","Oberlin, OH",-82.2173786,41.2939386,"MidWest","Oberlin"
-"333","Los Angeles","CA","Los Angeles, CA",-118.2436849,34.0522342,"Pacific","Occidental"
-"334","Athens","OH","Athens, OH",-82.1012554,39.3292396,"MidWest","Ohio"
-"335","Ada","OH","Ada, OH",-83.8227148,40.7694969,"MidWest","Ohio Northern"
-"336","Columbus","OH","Columbus, OH",-82.9987942,39.9611755,"MidWest","Ohio State"
-"337","Delaware","OH","Delaware, OH",-83.067965,40.2986724,"MidWest","Ohio Wesleyan"
-"338","Shawnee","OK","Shawnee, OK",-96.9253004,35.3272928,"West","Oklahoma Baptist"
-"339","Oklahoma City","OK","Oklahoma City, OK",-97.5164276,35.4675602,"West","Oklahoma Christian"
-"340","Norfolk","VA","Norfolk, VA",-76.2858726,36.8507689,"MidAtlantic","Old Dominion"
-"341","Olivet","MI","Olivet, MI",-84.9241542,42.4414273,"MidWest","Olivet"
-"342","Corvallis","OR","Corvallis, OR",-123.2620435,44.5645659,"Pacific","Oregon State"
-"343","Arkadelphia","AR","Arkadelphia, AR",-93.0537839,34.1209292,"South","Ouachita Baptist"
-"344","Clarksville","AR","Clarksville, AR",-93.4665731,35.4714724,"South","Ozarks"
-"345","New York","NY","New York, NY",-74.0059728,40.7127753,"MidAtlantic","Pace"
-"346","Forest Grove","OR","Forest Grove, OR",-123.1208596,45.5263514,"Pacific","Pacific"
-"347","Tacoma","WA","Tacoma, WA",-122.4442906,47.2528768,"Pacific","Pacific Lutheran"
-"348","Durham","NC","Durham, NC",-78.898619,35.9940329,"South","Penn"
-"349","University Park","PA","University Park, PA",-77.8653126,40.8147955,"MidAtlantic","Penn State"
-"350","Logan Township","PA","Logan Township, PA",-78.4524591,40.5203157,"MidAtlantic","Penn State Altoona"
-"351","Malibu","CA","Malibu, CA",-118.7797571,34.0259216,"Pacific","Pepperdine"
-"352","Misenheimer","NC","Misenheimer, NC",-80.2883904,35.4848625,"South","Pfeiffer"
-"353","Bradford","PA","Bradford, PA",-78.649163,41.9564953,"MidAtlantic","Pitt-Bradford"
-"354","Pittsburgh","PA","Pittsburgh, PA",-79.9958864,40.4406248,"MidAtlantic","Pittsburgh"
-"355","Plymouth","NH","Plymouth, NH",-71.6881528,43.7570196,"NewEngland","Plymouth State"
-"356","Claremont","CA","Claremont, CA",-117.7197785,34.0966764,"Pacific","Pomona-Pitzer"
-"357","Princeton","NJ","Princeton, NJ",-74.6672226,40.3572976,"MidAtlantic","Princeton"
-"358","Elsah","IL","Elsah, IL",-90.3598364,38.9561594,"MidWest","Principia"
-"359","Great Falls","MT","Great Falls, MT",-111.3007715,47.5052849,"West","Providence"
-"360","Tacoma","WA","Tacoma, WA",-122.4442906,47.2528768,"Pacific","Puget Sound"
-"361",NA,NA,NA,NA,NA,NA,"Purchase College"
-"362","West Lafayette","IN","West Lafayette, IN",-86.9080655,40.4258686,"MidWest","Purdue"
-"363","Charlotte","NC","Charlotte, NC",-80.8431267,35.2270869,"South","Queens"
-"364","Rochester","NY","Rochester, NY",-77.6088465,43.1565779,"MidAtlantic","RIT"
-"365","Mahwah","NJ","Mahwah, NJ",-74.1435843,41.0886216,"MidAtlantic","Ramapo"
-"366","Lynchburg","VA","Lynchburg, VA",-79.1422464,37.4137536,"MidAtlantic","Randolph"
-"367","Ashland","VA","Ashland, VA",-77.4799837,37.7590318,"MidAtlantic","Randolph Macon"
-"368","Redlands","CA","Redlands, CA",-117.1825381,34.0555693,"Pacific","Redlands"
-"369","Denver","CO","Denver, CO",-104.990251,39.7392358,"West","Regis"
-"370","Troy","NY","Troy, NY",-73.6917851,42.7284117,"MidAtlantic","Rensselaer"
-"371","Kingston","RI","Kingston, RI",-71.5225598,41.4803791,"NewEngland","Rhode Island"
-"372","Memphis","TN","Memphis, TN",-90.0489801,35.1495343,"South","Rhodes"
-"373","Houston","TX","Houston, TX",-95.3698028,29.7604267,"SouthWest","Rice"
-"374","Richmond","VA","Richmond, VA",-77.4360481,37.5407246,"MidAtlantic","Richmond"
-"375","Lawrenceville","NJ","Lawrenceville, NJ",-74.7361013,40.3016375,"MidAtlantic","Rider"
-"376","Ripon","WI","Ripon, WI",-88.8359447,43.8422049,"MidWest","Ripon"
-"377","Salem","VA","Salem, VA",-80.0547626,37.2934681,"MidAtlantic","Roanoke"
-"378","Rochester","NY","Rochester, NY",-77.6088465,43.1565779,"MidAtlantic","Roberts Wesleyan"
-"379","Rochester","NY","Rochester, NY",-77.6088465,43.1565779,"MidAtlantic","Rochester"
-"380","Bristol","RI","Bristol, RI",-71.2662025,41.6771101,"NewEngland","Roger Williams"
-"381","Winter Park","FL","Winter Park, FL",-81.3392352,28.5999998,"South","Rollins"
-"382","Terre Haute","IN","Terre Haute, IN",-87.4139092,39.4667034,"MidWest","Rose-Hulman"
-"383","Glassboro","NJ","Glassboro, NJ",-75.1118422,39.7028923,"MidAtlantic","Rowan"
-"384","Piscataway","NJ","Piscataway, NJ",-74.4642861,40.554887,"MidAtlantic","Rutgers"
-"385","Dallas","TX","Dallas, TX",-96.7969879,32.7766642,"SouthWest","SMU"
-"386","Binghamton","NY","Binghamton, NY",-75.9179738,42.0986867,"MidAtlantic","SUNY Binghamton"
-"387","Brockport","NY","Brockport, NY",-77.9391797,43.2136713,"MidAtlantic","SUNY Brockport"
-"388","Buffalo","NY","Buffalo, NY",-78.8783689,42.8864468,"MidAtlantic","SUNY Buffalo State"
-"389","Cobleskill","NY","Cobleskill, NY",-74.4854172,42.677853,"MidAtlantic","SUNY Cobleskill"
-"390","Cortland","NY","Cortland, NY",-76.1804843,42.6011813,"MidAtlantic","SUNY Cortland"
-"391","Delhi","NY","Delhi, NY",-74.9159946,42.2781401,"MidAtlantic","SUNY Delhi"
-"392","Fredonia","NY","Fredonia, NY",-79.3317105,42.4400576,"MidAtlantic","SUNY Fredonia"
-"393","Geneseo","NY","Geneseo, NY",-77.816947,42.795896,"MidAtlantic","SUNY Geneseo"
-"394","Throggs Neck","NY","Throggs Neck, NY",-73.8213213,40.818399,"MidAtlantic","SUNY Maritime"
-"395","New Paltz","NY","New Paltz, NY",-74.0868095,41.7475933,"MidAtlantic","SUNY New Paltz"
-"396","Old Westbury","NY","Old Westbury, NY",-73.5995717,40.7887113,"MidAtlantic","SUNY Old Westbury"
-"397","Oneonta","NY","Oneonta, NY",-75.0637746,42.4528571,"MidAtlantic","SUNY Oneonta"
-"398","Oswego","NY","Oswego, NY",-76.5104973,43.4553461,"MidAtlantic","SUNY Oswego"
-"399","Potsdam","NY","Potsdam, NY",-74.9813084,44.6697805,"MidAtlantic","SUNY Potsdam"
-"400","Stony Brook","NY","Stony Brook, NY",-73.1409429,40.9256538,"MidAtlantic","SUNY Stony Brook"
-"401","Fairfield","CT","Fairfield, CT",-73.2612615,41.1408363,"NewEngland","Sacred Heart"
-"402","University Center","MI","University Center, MI",-83.984501,43.5375937,"MidWest","Saginaw Valley State"
-"403","St. Joseph","MN","St. Joseph, MN",-94.317966,45.5647724,"MidWest","Saint Benedict"
-"404","St. Bonaventure","NY","St. Bonaventure, NY",-78.4750213,42.0803426,"MidAtlantic","Saint Bonaventure"
-"405","St. Cloud","MN","St. Cloud, MN",-94.1632404,45.5579451,"MidWest","Saint Cloud State"
-"406","Fort Wayne","IN","Fort Wayne, IN",-85.1393513,41.079273,"MidWest","Saint Francis"
-"407","Loretto","PA","Loretto, PA",-78.630296,40.5031263,"MidAtlantic","Saint Francis PA"
-"408","Old Westbury","NY","Old Westbury, NY",-73.5995717,40.7887113,"MidAtlantic","Saint Joseph CT"
-"409","Brooklyn","NY","Brooklyn, NY",-73.9441579,40.6781784,"MidAtlantic","Saint Joseph's Brooklyn"
-"410","Patchogue","NY","Patchogue, NY",-73.019343,40.7659783,"MidAtlantic","Saint Joseph's Long Island"
-"411","Standish","ME","Standish, ME",-70.5509356,43.7355927,"NewEngland","Saint Joseph's ME"
-"412","Canton","NY","Canton, NY",-75.1690942,44.5956163,"MidAtlantic","Saint Lawrence"
-"413","Saint Leo","FL","Saint Leo, FL",-82.2584191,28.3372251,"South","Saint Leo"
-"414","St. Louis","MO","St. Louis, MO",-90.1994042,38.6270025,"MidWest","Saint Louis"
-"415","Winona","MN","Winona, MN",-91.6663523,44.0553908,"MidWest","Saint Mary's MN"
-"416","De Pere","WI","De Pere, WI",-88.0603806,44.4488805,"MidWest","Saint Norbert"
-"417","Jersey City","NJ","Jersey City, NJ",-74.0431435,40.7177545,"MidAtlantic","Saint Peter's"
-"418","Albany","NY","Albany, NY",-73.7562317,42.6525793,"MidAtlantic","Saint Rose"
-"419","Latrobe","PA","Latrobe, PA",-79.3794811,40.3211808,"MidAtlantic","Saint Vincent"
-"420","Salem","WV","Salem, WV",-80.5589856,39.2828653,"MidAtlantic","Salem"
-"421",NA,NA,NA,NA,NA,NA,"Salem University"
-"422","Salisbury","MD","Salisbury, MD",-75.5993692,38.3606736,"MidAtlantic","Salisbury"
-"423","San Diego","CA","San Diego, CA",-117.1610838,32.715738,"Pacific","San Diego"
-"424","San Diego","CA","San Diego, CA",-117.1610838,32.715738,"Pacific","San Diego State"
-"425","San Jose","CA","San Jose, CA",-121.8863286,37.3382082,"Pacific","San Jose State"
-"426","Bronxville","NY","Bronxville, NY",-73.8320784,40.9381544,"MidAtlantic","Sarah Lawrence"
-"427","Scranton","PA","Scranton, PA",-75.6624122,41.408969,"MidAtlantic","Scranton"
-"428","Seattle","WA","Seattle, WA",-122.3320708,47.6062095,"Pacific","Seattle"
-"429","South Orange","NJ","South Orange, NJ",-74.2609903,40.7489277,"MidAtlantic","Seton Hall"
-"430","Sewanee","TN","Sewanee, TN",-85.9210899,35.2031373,"South","Sewanee"
-"431","Shippensburg","PA","Shippensburg, PA",-77.5202647,40.0506453,"MidAtlantic","Shippensburg"
-"432","Loudonville","NY","Loudonville, NY",-73.7548424,42.7048009,"MidAtlantic","Siena"
-"433","Boston","MA","Boston, MA",-71.0588801,42.3600825,"NewEngland","Simmons"
-"434","Burnaby","BC","Burnaby, BC",-122.9805104,49.2488091,"Pacific","Simon Fraser"
-"435","Redding","CA","Redding, CA",-122.3916754,40.5865396,"Pacific","Simpson"
-"436","Sioux Falls","SD","Sioux Falls, SD",-96.728333,43.5473028,"West","Sioux Falls"
-"437","Saratoga Springs","NY","Saratoga Springs, NY",-73.7845651,43.0831301,"MidAtlantic","Skidmore"
-"438","Northampton","MA","Northampton, MA",-72.6412013,42.3250896,"NewEngland","Smith"
-"439","Columbia","SC","Columbia, SC",-81.0348144,34.0007104,"South","South Carolina"
-"440","Vermillion","SD","Vermillion, SD",-96.9292104,42.7794417,"West","South Dakota"
-"441","Brookings","SD","Brookings, SD",-96.7983877,44.3113573,"West","South Dakota State"
-"442","New Haven","CT","New Haven, CT",-72.9278835,41.308274,"NewEngland","Southern Connecticut State"
-"443","Carbondale","IL","Carbondale, IL",-89.2167501,37.7272727,"MidWest","Southern Illinois"
-"444","Georgetown","TX","Georgetown, TX",-97.6779842,30.6332618,"SouthWest","Southwestern"
-"445","Springfield","MA","Springfield, MA",-72.589811,42.1014831,"NewEngland","Springfield"
-"446","Annapolis","MD","Annapolis, MD",-76.4921829,38.9784453,"MidAtlantic","St. John's"
-"447","St. Paul","MN","St. Paul, MN",-93.0899578,44.9537029,"MidWest","St. Kate's"
-"448","St. Marys City","MD","St. Marys City, MD",-76.4343173,38.1872404,"MidAtlantic","St. Mary's MD"
-"449","Colchester","VT","Colchester, VT",-73.1479068,44.5439375,"NewEngland","St. Michael's"
-"450","Northfield","MN","Northfield, MN",-93.161604,44.4582983,"MidWest","St. Olaf"
-"451","Houston","TX","Houston, TX",-95.3698028,29.7604267,"SouthWest","St. Thomas"
-"452","Stanford","CA","Stanford, CA",-122.1660756,37.424106,"Pacific","Stanford"
-"453","Staten Island","NY","Staten Island, NY",-74.1502007,40.5795317,"MidAtlantic","Staten Island"
-"454","Hoboken","NJ","Hoboken, NJ",-74.0323626,40.7439905,"MidAtlantic","Stevens"
-"455","Stevenson","MD","Stevenson, MD",-76.7132892,39.4105843,"MidAtlantic","Stevenson"
-"456","Selinsgrove","PA","Selinsgrove, PA",-76.8621935,40.7989735,"MidAtlantic","Susquehanna"
-"457","Swarthmore","PA","Swarthmore, PA",-75.3499123,39.9020565,"MidAtlantic","Swarthmore"
-"458","Sweet Briar","VA","Sweet Briar, VA",-79.0801084,37.5565736,"MidAtlantic","Sweet Briar"
-"459","Ewing","NJ","Ewing, NJ",-74.7909125,40.2599864,"MidAtlantic","TCNJ"
-"460","Tampa","FL","Tampa, FL",-82.4571776,27.950575,"South","Tampa"
-"461","Knoxville","TN","Knoxville, TN",-83.9207392,35.9606384,"South","Tennessee"
-"462","Austin","TX","Austin, TX",-97.7430608,30.267153,"SouthWest","Texas"
-"463","College Station","TX","College Station, TX",-96.3344068,30.627977,"SouthWest","Texas A&M"
-"464","Fort Worth","TX","Fort Worth, TX",-97.3307658,32.7554883,"SouthWest","Texas Christian"
-"465","Odessa","TX","Odessa, TX",-102.3676431,31.8456816,"SouthWest","Texas Permian Basin"
-"466","Crestview Hills","KY","Crestview Hills, KY",-84.5849438,39.0272829,"South","Thomas More"
-"467","Tiffin","OH","Tiffin, OH",-83.1779746,41.1144992,"MidWest","Tiffin"
-"468","Toledo","OH","Toledo, OH",-83.5378674,41.6528052,"MidWest","Toledo"
-"469","Towson","MD","Towson, MD",-76.6019125,39.4014955,"MidAtlantic","Towson"
-"470","Lexington","KY","Lexington, KY",-84.5037164,38.0405837,"South","Transylvania"
-"471","Hartford","CT","Hartford, CT",-72.6733723,41.7658043,"NewEngland","Trinity"
-"472","San Antonio","TX","San Antonio, TX",-98.4936282,29.4241219,"SouthWest","Trinity U."
-"473","Kirksville","MO","Kirksville, MO",-92.5832496,40.1947539,"MidWest","Truman State"
-"474","Medford","MA","Medford, MA",-71.1061639,42.4184296,"NewEngland","Tufts"
-"475","New Orleans","LA","New Orleans, LA",-90.0715323,29.9510658,"South","Tulane"
-"476","Davis","CA","Davis, CA",-121.7405167,38.5449065,"Pacific","UC Davis"
-"477","Santa Barbara","CA","Santa Barbara, CA",-119.6981901,34.4208305,"Pacific","UC Santa Barbara"
-"478",NA,NA,NA,NA,NA,NA,"UC Santa Curz"
-"479","Los Angeles","CA","Los Angeles, CA",-118.2436849,34.0522342,"Pacific","UCLA"
-"480",NA,NA,NA,NA,NA,NA,"UCSD"
-"481","Storrs","CT","Storrs, CT",-72.2495231,41.8084314,"NewEngland","UConn"
-"482","North Dartmouth","MA","North Dartmouth, MA",-70.9694555,41.640396,"NewEngland","UM Dartmouth"
-"483","Baltimore","MD","Baltimore, MD",-76.6121893,39.2903848,"MidAtlantic","UMBC"
-"484","Omaha","NE","Omaha, NE",-95.9345034,41.2565369,"West","UN Omaha"
-"485",NA,NA,NA,NA,NA,NA,"UNC"
-"486","Asheville","NC","Asheville, NC",-82.5514869,35.5950581,"South","UNC Asheville"
-"487","Wilmington","NC","Wilmington, NC",-77.8868117,34.2103894,"South","UNC Wilmington"
-"488","Las Vegas","NV","Las Vegas, NV",-115.1398296,36.1699412,"West","UNLV"
-"489","Los Angeles","CA","Los Angeles, CA",-118.2436849,34.0522342,"Pacific","USC"
-"490",NA,NA,NA,NA,NA,NA,"USMMA"
-"491","Eau Claire","WI","Eau Claire, WI",-91.4984941,44.811349,"MidWest","UW-Eau Crosse"
-"492","Green Bay","WI","Green Bay, WI",-88.0132958,44.5133188,"MidWest","UW-Green Bay"
-"493","La Crosse","WI","La Crosse, WI",-91.2519017,43.8137751,"MidWest","UW-La Crosse"
-"494","Milwaukee","WI","Milwaukee, WI",-87.9064736,43.0389025,"MidWest","UW-Milwaukee"
-"495","Oshkosh","WI","Oshkosh, WI",-88.5426136,44.0247062,"MidWest","UW-Oshkosh"
-"496","Stevens Point","WI","Stevens Point, WI",-89.574563,44.5235792,"MidWest","UW-Stevens Point"
-"497","Whitewater","WI","Whitewater, WI",-88.7323272,42.8336205,"MidWest","UW-Whitewater"
-"498","Barbourville","KY","Barbourville, KY",-83.8888138,36.8664765,"South","Union"
-"499","Urbana","OH","Urbana, OH",-83.7524298,40.1083912,"MidWest","Urbana"
-"500","Collegeville","PA","Collegeville, PA",-75.451571,40.1856597,"MidAtlantic","Ursinus"
-"501","Pepper Pike","OH","Pepper Pike, OH",-81.4637295,41.4783865,"MidWest","Ursuline"
-"502","Salt Lake City","UT","Salt Lake City, UT",-111.8910474,40.7607793,"West","Utah"
-"503","Utica","NY","Utica, NY",-75.232664,43.100903,"MidAtlantic","Utica"
-"504","Valparaiso","IN","Valparaiso, IN",-87.0611412,41.4730948,"MidWest","Valparaiso"
-"505","Nashville","TN","Nashville, TN",-86.7816016,36.1626638,"South","Vanderbilt"
-"506","Poughkeepsie","NY","Poughkeepsie, NY",-73.9209701,41.7003713,"MidAtlantic","Vassar"
-"507","Burlington","VT","Burlington, VT",-73.212072,44.4758825,"NewEngland","Vermont"
-"508","Villanova","PA","Villanova, PA",-75.3491813,40.0375832,"MidAtlantic","Villanova"
-"509","Charlottesville","VA","Charlottesville, VA",-78.4766781,38.0293059,"MidAtlantic","Virginia"
-"510","Lexington","VA","Lexington, VA",-79.4428157,37.7840208,"MidAtlantic","Virginia Military Institute"
-"511","Blacksburg","VA","Blacksburg, VA",-80.4139393,37.2295733,"MidAtlantic","Virginia Tech"
-"512","Norfolk","VA","Norfolk, VA",-76.2858726,36.8507689,"MidAtlantic","Virginia Wesleyan"
-"513","Crawfordsville","IN","Crawfordsville, IN",-86.8744516,40.0411536,"MidWest","Wabash"
-"514","Staten Island","NY","Staten Island, NY",-74.1502007,40.5795317,"MidAtlantic","Wagner"
-"515","St. Louis","MO","St. Louis, MO",-90.1994042,38.6270025,"MidWest","Wash U. MO"
-"516","Washington","PA","Washington, PA",-80.2461714,40.17396,"MidAtlantic","Washington & Jefferson"
-"517","Holland","MI","Holland, MI",-86.1089301,42.7875235,"MidWest","Washington College"
-"518","Pullman","WA","Pullman, WA",-117.1817377,46.7297771,"Pacific","Washington State"
-"519","Lexington","VA","Lexington, VA",-79.4428157,37.7840208,"MidAtlantic","Washington and Lee"
-"520","Detroit","MI","Detroit, MI",-83.0457538,42.331427,"MidWest","Wayne State"
-"521","Wellesley","MA","Wellesley, MA",-71.2923877,42.296797,"NewEngland","Wellesley"
-"522","Aurora","NY","Aurora, NY",-76.7024485,42.7539591,"MidAtlantic","Wells"
-"523","Macon","GA","Macon, GA",-83.6324022,32.8406946,"South","Wesleyan"
-"524","West Chester","PA","West Chester, PA",-75.6054882,39.9606643,"MidAtlantic","West Chester"
-"525","Pensacola","FL","Pensacola, FL",-87.2169149,30.421309,"South","West Florida"
-"526","Morgantown","WV","Morgantown, WV",-79.9558968,39.629526,"MidAtlantic","West Virginia"
-"527","Buckhannon","WV","Buckhannon, WV",-80.2320276,38.9939872,"MidAtlantic","West Virginia Wesleyan"
-"528","Gunnison","CO","Gunnison, CO",-106.9253207,38.5458246,"West","Western Colorado"
-"529","Danbury","CT","Danbury, CT",-73.4540111,41.394817,"NewEngland","Western Connecticut State"
-"530","Macomb","IL","Macomb, IL",-90.6717971,40.4592076,"MidWest","Western Illinois"
-"531","Springfield","MA","Springfield, MA",-72.589811,42.1014831,"NewEngland","Western New England"
-"532","Westfield","MA","Westfield, MA",-72.749538,42.1250929,"NewEngland","Westfield State"
-"533","Fulton","MO","Fulton, MO",-91.9479586,38.8467082,"MidWest","Westminster"
-"534","Wheaton","IL","Wheaton, IL",-88.1070127,41.8661403,"MidWest","Wheaton IL"
-"535","Norton","MA","Norton, MA",-71.1869963,41.9667703,"NewEngland","Wheaton MA"
-"536","Walla Walla","WA","Walla Walla, WA",-118.3430208,46.0645809,"Pacific","Whitman"
-"537","Whittier","CA","Whittier, CA",-118.032844,33.9791793,"Pacific","Whittier"
-"538","Spokane","WA","Spokane, WA",-117.4260465,47.6587802,"Pacific","Whitworth"
-"539","Chester","PA","Chester, PA",-75.3557457,39.849557,"MidAtlantic","Widener"
-"540","Wilkes-Barre","PA","Wilkes-Barre, PA",-75.8813075,41.2459149,"MidAtlantic","Wilkes"
-"541","Salem","OR","Salem, OR",-123.0350963,44.9428975,"Pacific","Willamette"
-"542","Williamsburg","VA","Williamsburg, VA",-76.7074571,37.2707022,"MidAtlantic","William & Mary"
-"543","Liberty","MO","Liberty, MO",-94.4191177,39.2461138,"MidWest","William Jewell"
-"544","Wayne","NJ","Wayne, NJ",-74.2765441,40.9253725,"MidAtlantic","William Paterson"
-"545","Raleigh","NC","Raleigh, NC",-78.6381787,35.7795897,"South","William Peace"
-"546","Geneva","NY","Geneva, NY",-76.985557,42.8679836,"MidAtlantic","William Smith"
-"547","Williamstown","MA","Williamstown, MA",-73.2036898,42.7120196,"NewEngland","Williams"
-"548","New Castle","DE","New Castle, DE",-75.5668166,39.6620397,"MidAtlantic","Wilmington"
-"549","Wingate","NC","Wingate, NC",-80.4492319,34.9843176,"South","Wingate"
-"550","Madison","WI","Madison, WI",-89.4012302,43.0730517,"MidWest","Wisconsin"
-"551","Springfield","OH","Springfield, OH",-83.8088171,39.9242266,"MidWest","Wittenberg"
-"552","Wooster","OH","Wooster, OH",-81.935143,40.8050565,"MidWest","Wooster"
-"553","Worcester","MA","Worcester, MA",-71.8022934,42.2625932,"NewEngland","Worcester Poly"
-"554","Laramie","WY","Laramie, WY",-105.5911007,41.3113669,"West","Wyoming"
-"555","Cincinnati","OH","Cincinnati, OH",-84.5120196,39.1031182,"MidWest","Xavier"
-"556","New Haven","CT","New Haven, CT",-72.9278835,41.308274,"NewEngland","Yale"
-"557","York","NE","York, NE",-97.5920867,40.8673915,"West","York"
-"558","Youngstown","OH","Youngstown, OH",-80.6495194,41.0997803,"MidWest","Youngstown State"
+,City,State,Address,lon,lat,Region,Team1,Alamosa,CO,"Alamosa, CO",-105.8700214,37.4694491,West,Adams State2,Garden City,NY,"Garden City, NY",-73.6342954,40.7267682,MidAtlantic,Adelphi3,USAF Academy,CO,"USAF Academy, CO",-104.8617533,38.9983573,West,Air Force4,Akron,OH,"Akron, OH",-81.5190053,41.0814447,MidWest,Akron5,Tuscaloosa,AL,"Tuscaloosa, AL",-87.5691735,33.2098407,South,Alabama6,Fairbanks,AK,"Fairbanks, AK",-147.7163888,64.8377778,Alaska,Alaska Fairbanks7,Albion,MI,"Albion, MI",-84.7530304,42.243097,MidWest,Albion8,Reading,PA,"Reading, PA",-75.9268747,40.3356483,MidAtlantic,Albright9,Alfred,NY,"Alfred, NY",-77.7905509,42.2542366,MidAtlantic,Alfred10,Alfred,NY,"Alfred, NY",-77.7905509,42.2542366,MidAtlantic,Alfred State11,Meadville,PA,"Meadville, PA",-80.1514484,41.6414438,MidAtlantic,Allegheny12,Alma,MI,"Alma, MI",-84.6597274,43.3789199,MidWest,Alma13,Washington,DC,"Washington, DC",-77.0368707,38.9071923,MidAtlantic,American14,Amherst,MA,"Amherst, MA",-72.5198537,42.3732216,NewEngland,Amherst15,Anderson,IN,"Anderson, IN",-85.6802541,40.1053196,MidWest,Anderson16,Glenside,PA,"Glenside, PA",-75.1527928,40.0999077,MidAtlantic,Arcadia17,Tucson,AZ,"Tucson, AZ",-110.9747108,32.2226066,SouthWest,Arizona18,Tempe,AZ,"Tempe, AZ",-111.9400054,33.4255104,SouthWest,Arizona State19,Fayetteville,AR,"Fayetteville, AR",-94.1718542,36.082156,South,Arkansas20,Little Rock,AR,"Little Rock, AR",-92.2895948,34.7464809,South,Arkansas Little Rock21,West Point,NY,"West Point, NY",-73.9559721,41.3914827,MidAtlantic,Army22,Ashland,OH,"Ashland, OH",-82.3182178,40.8686675,MidWest,Ashland23,Worcester,MA,"Worcester, MA",-71.8022934,42.2625932,NewEngland,Assumption24,Auburn,AL,"Auburn, AL",-85.4807825,32.6098566,South,Auburn25,Minneapolis,MN,"Minneapolis, MN",-93.2650108,44.977753,MidWest,Augsburg26,Sioux Falls,SD,"Sioux Falls, SD",-96.728333,43.5473028,West,Augustana27,Sherman,TX,"Sherman, TX",-96.6088805,33.6356618,SouthWest,Austin28,Azusa,CA,"Azusa, CA",-117.9075627,34.1336186,Pacific,Azusa Pacific29,Babson,MA,"Babson, MA",-71.2657077,42.2964421,NewEngland,Babson30,Berea,OH,"Berea, OH",-81.8543026,41.3661614,MidWest,Baldwin Wallace31,Muncie,IN,"Muncie, IN",-85.3863599,40.1933767,MidWest,Ball State32,Annandale on Hudson,NY,"Annandale on Hudson, NY",-73.9095279,42.0218762,MidAtlantic,Bard33,Wilson,NC,"Wilson, NC",-77.9155395,35.7212689,South,Barton34,New York,NY,"New York, NY",-74.0059728,40.7127753,MidAtlantic,Baruch35,Lewiston,ME,"Lewiston, ME",-70.2147764,44.100351,NewEngland,Bates36,Erie,PA,"Erie, PA",-80.085059,42.1292241,MidAtlantic,Behrend37,Louisville,KY,"Louisville, KY",-85.7584557,38.2526647,South,Bellarmine38,Beloit,WI,"Beloit, WI",-89.0317765,42.5083482,MidWest,Beloit39,Waltham,MA,"Waltham, MA",-71.2356113,42.3764852,NewEngland,Bentley40,Mount Berry,GA,"Mount Berry, GA",-85.1832843,34.275093,South,Berry41,Bethany,WV,"Bethany, WV",-80.5567384,40.205627,MidAtlantic,Bethany42,NA,NA,NA,NA,NA,NA,Biola University43,Birmingham,AL,"Birmingham, AL",-86.8103567,33.5185892,South,Birmingham Southern44,Bloomsburg,PA,"Bloomsburg, PA",-76.4549457,41.003698,MidAtlantic,Bloomsburg45,Boise,ID,"Boise, ID",-116.2023137,43.6150186,West,Boise State46,Boston,MA,"Boston, MA",-71.0588801,42.3600825,NewEngland,Boston47,Chestnut Hill,MA,"Chestnut Hill, MA",-71.166187,42.3303798,NewEngland,Boston College48,Brunswick,ME,"Brunswick, ME",-69.966996,43.9140162,NewEngland,Bowdoin49,Bowling Green,OH,"Bowling Green, OH",-83.6513229,41.3747744,MidWest,Bowling Green State50,Waltham,MA,"Waltham, MA",-71.2356113,42.3764852,NewEngland,Brandeis51,Bridgeport,CT,"Bridgeport, CT",-73.1894384,41.1792258,NewEngland,Bridgeport52,Bridgewater,VA,"Bridgewater, VA",-78.976696,38.3820706,MidAtlantic,Bridgewater53,Bridgewater,MA,"Bridgewater, MA",-70.9750541,41.9903519,NewEngland,Bridgewater State54,Provo,UT,"Provo, UT",-111.6585337,40.2338438,West,Brigham Young55,Providence,RI,"Providence, RI",-71.4128343,41.8239891,NewEngland,Brown56,Smithfield,RI,"Smithfield, RI",-71.5495101,41.9220496,NewEngland,Bryant57,Bryn Mawr,PA,"Bryn Mawr, PA",-75.3151772,40.0230237,MidAtlantic,Bryn Mawr58,Lewisburg,PA,"Lewisburg, PA",-76.8844101,40.9645293,MidAtlantic,Bucknell59,Buffalo,NY,"Buffalo, NY",-78.8783689,42.8864468,MidAtlantic,Buffalo60,Indianapolis,IN,"Indianapolis, IN",-86.158068,39.768403,MidWest,Butler61,NA,NA,NA,NA,NA,NA,CSUB62,Radnor,PA,"Radnor, PA",-75.3599105,40.0462208,MidAtlantic,Cabrini63,NA,NA,NA,NA,NA,NA,Cal Baptist64,San Luis Obispo,CA,"San Luis Obispo, CA",-120.6596156,35.2827524,Pacific,Cal Poly65,Hayward,CA,"Hayward, CA",-122.0807964,37.6688205,Pacific,Cal State East Bay66,Berkeley,CA,"Berkeley, CA",-122.272747,37.8715926,Pacific,California67,Thousand Oaks,CA,"Thousand Oaks, CA",-118.8375937,34.1705609,Pacific,California Lutheran68,California,PA,"California, PA",-79.8917139,40.0656291,MidAtlantic,California Pennsylvania69,Pasadena,CA,"Pasadena, CA",-118.1445155,34.1477849,Pacific,Caltech70,Grand Rapids,MI,"Grand Rapids, MI",-85.6680863,42.9633599,MidWest,Calvin71,Buies Creek,NC,"Buies Creek, NC",-78.7355728,35.4132168,South,Campbell72,Buffalo,NY,"Buffalo, NY",-78.8783689,42.8864468,MidAtlantic,Canisius73,Northfield,MN,"Northfield, MN",-93.161604,44.4582983,MidWest,Carleton74,Pittsburgh,PA,"Pittsburgh, PA",-79.9958864,40.4406248,MidAtlantic,Carnegie Mellon75,Helena,MT,"Helena, MT",-112.0391057,46.5891452,West,Carroll76,Jefferson City,TN,"Jefferson City, TN",-83.492396,36.122311,South,Carson-Newman77,Kenosha,WI,"Kenosha, WI",-87.8211854,42.5847425,MidWest,Carthage78,Cleveland,OH,"Cleveland, OH",-81.6943605,41.49932,MidWest,Case Western79,Salisbury,NC,"Salisbury, NC",-80.4742261,35.6709727,South,Catawba80,Washington,DC,"Washington, DC",-77.0368707,38.9071923,MidAtlantic,Catholic81,Cazenovia,NY,"Cazenovia, NY",-75.8526915,42.9300668,MidAtlantic,Cazenovia82,Allentown,PA,"Allentown, PA",-75.4714098,40.6022939,MidAtlantic,Cedar Crest83,Shreveport,LA,"Shreveport, LA",-93.7501789,32.5251516,South,Centenary of Louisiana84,New Britain,CT,"New Britain, CT",-72.7795419,41.6612104,NewEngland,Central Connecticut State85,Danville,KY,"Danville, KY",-84.7721702,37.6456329,South,Centre College86,Orange,CA,"Orange, CA",-117.8531007,33.7879139,Pacific,Chapman87,Pittsburgh,PA,"Pittsburgh, PA",-79.9958864,40.4406248,MidAtlantic,Chatham88,Chicago,IL,"Chicago, IL",-87.6297982,41.8781136,MidWest,Chicago89,Murfreesboro,NC,"Murfreesboro, NC",-77.0985752,36.4423754,South,Chowan90,Cincinnati,OH,"Cincinnati, OH",-84.5120196,39.1031182,MidWest,Cincinnati91,Claremont,CA,"Claremont, CA",-117.7197785,34.0966764,Pacific,Claremont MS92,Clarion,PA,"Clarion, PA",-79.3853218,41.2147851,MidAtlantic,Clarion93,Worcester,MA,"Worcester, MA",-71.8022934,42.2625932,NewEngland,Clark94,Potsdam,NY,"Potsdam, NY",-74.9813084,44.6697805,MidAtlantic,Clarkson95,Cleveland,OH,"Cleveland, OH",-81.6943605,41.49932,MidWest,Cleveland State96,New London,CT,"New London, CT",-72.0995209,41.3556539,NewEngland,Coast Guard97,Cedar Rapids,IA,"Cedar Rapids, IA",-91.6656232,41.9778795,MidWest,Coe98,Waterville,ME,"Waterville, ME",-69.6317121,44.5520105,NewEngland,Colby99,New London,NH,"New London, NH",-71.975699,43.4284925,NewEngland,Colby-Sawyer100,Hamilton,NY,"Hamilton, NY",-75.5446238,42.8270136,MidAtlantic,Colgate101,Colorado Springs,CO,"Colorado Springs, CO",-104.8213634,38.8338816,West,Colorado College102,Grand Junction,CO,"Grand Junction, CO",-108.5506486,39.0638705,West,Colorado Mesa103,Golden,CO,"Golden, CO",-105.2210997,39.755543,West,Colorado School of Mines104,Fort Collins,CO,"Fort Collins, CO",-105.084423,40.5852602,West,Colorado State105,Pueblo,CO,"Pueblo, CO",-104.6091409,38.2544472,West,Colorado State Pueblo106,New York,NY,"New York, NY",-74.0059728,40.7127753,MidAtlantic,Columbia107,Bronxville,NY,"Bronxville, NY",-73.8320784,40.9381544,MidAtlantic,Concordia108,Irvine,CA,"Irvine, CA",-117.8265049,33.6845673,Pacific,Concordia Irvine109,New London,CT,"New London, CT",-72.0995209,41.3556539,NewEngland,Connecticut110,Spartanburg,SC,"Spartanburg, SC",-81.9320482,34.9495672,South,Converse111,Ithaca,NY,"Ithaca, NY",-76.5018807,42.4439614,MidAtlantic,Cornell112,Hanover,NH,"Hanover, NH",-72.2895526,43.7022451,NewEngland,Dartmouth113,Grand Rapids,MI,"Grand Rapids, MI",-85.6680863,42.9633599,MidWest,Davenport114,Davidson,NC,"Davidson, NC",-80.8486846,35.4993031,South,Davidson115,Elkins,WV,"Elkins, WV",-79.8467349,38.9259397,MidAtlantic,Davis & Elkins116,Greencastle,IN,"Greencastle, IN",-86.8647316,39.6444898,MidWest,DePauw117,Newark,DE,"Newark, DE",-75.7496572,39.6837226,MidAtlantic,Delaware118,Cleveland,MS,"Cleveland, MS",-90.7248187,33.7440023,South,Delta State119,Granville,OH,"Granville, OH",-82.5196037,40.0681192,MidWest,Denison120,Denver,CO,"Denver, CO",-104.990251,39.7392358,West,Denver121,Carlisle,PA,"Carlisle, PA",-77.2002745,40.2010241,MidAtlantic,Dickinson122,Saint George,UT,"Saint George, UT",-113.5684164,37.0965278,West,Dixie State123,Madison,NJ,"Madison, NJ",-74.417097,40.7598227,MidAtlantic,Drew124,Philadelphia,PA,"Philadelphia, PA",-75.1652215,39.9525839,MidAtlantic,Drexel125,Springfield,MO,"Springfield, MO",-93.2922989,37.2089572,MidWest,Drury126,Philadelphia,PA,"Philadelphia, PA",-75.1652215,39.9525839,MidAtlantic,Penn127,Pittsburgh,PA,"Pittsburgh, PA",-79.9958864,40.4406248,MidAtlantic,Duquesne128,Greenville,NC,"Greenville, NC",-77.3663538,35.612661,South,East Carolina129,East Stroudsburg,PA,"East Stroudsburg, PA",-75.1812913,40.9995386,MidAtlantic,East Stroudsburg130,Willimantic,CT,"Willimantic, CT",-72.2081338,41.7106543,NewEngland,Eastern Connecticut131,Charleston,IL,"Charleston, IL",-88.1761521,39.4961458,MidWest,Eastern Illinois132,Ypsilanti,MI,"Ypsilanti, MI",-83.6129939,42.2411499,MidWest,Eastern Michigan133,Edinboro,PA,"Edinboro, PA",-80.1317236,41.8742225,MidAtlantic,Edinboro134,Elizabethtown,PA,"Elizabethtown, PA",-76.6027455,40.1528719,MidAtlantic,Elizabethtown135,Chicopee,MA,"Chicopee, MA",-72.6078672,42.1487043,NewEngland,Elms136,Boston,MA,"Boston, MA",-71.0588801,42.3600825,NewEngland,Emmanuel137,Atlanta,GA,"Atlanta, GA",-84.3879824,33.7489954,South,Emory138,Emory,VA,"Emory, VA",-81.834939,36.773811,MidAtlantic,Emory & Henry139,Evansville,IN,"Evansville, IN",-87.5710898,37.9715592,MidWest,Evansville140,Fairfield,CT,"Fairfield, CT",-73.2612615,41.1408363,NewEngland,Fairfield141,Madison,NJ,"Madison, NJ",-74.417097,40.7598227,MidAtlantic,Fairleigh Dickinson Florham142,Fairmont,WV,"Fairmont, WV",-80.1425781,39.4850848,MidAtlantic,Fairmont State143,Ferrum,VA,"Ferrum, VA",-80.0133712,36.9229159,MidAtlantic,Ferrum144,Findlay,OH,"Findlay, OH",-83.6499321,41.04422,MidWest,Findlay145,Gainesville,FL,"Gainesville, FL",-82.3248262,29.6516344,South,Florida146,Boca Raton,FL,"Boca Raton, FL",-80.1289321,26.3683064,South,Florida Atlantic147,Fort Myers,FL,"Fort Myers, FL",-81.8723084,26.640628,South,Florida Gulf Coast148,Miami,FL,"Miami, FL",-80.1917902,25.7616798,South,Florida International149,Lakeland,FL,"Lakeland, FL",-81.9498042,28.0394654,South,Florida Southern150,Tallahassee,FL,"Tallahassee, FL",-84.2807329,30.4382559,South,Florida State151,Melbourne,FL,"Melbourne, FL",-80.6081089,28.0836269,South,Florida Tech152,New York,NY,"New York, NY",-74.0059728,40.7127753,MidAtlantic,Fordham153,Steubenville,OH,"Steubenville, OH",-80.6339638,40.3697905,MidWest,Franciscan University of Steubenville154,Franklin,IN,"Franklin, IN",-86.0549863,39.4806055,MidWest,Franklin155,Lancaster,PA,"Lancaster, PA",-76.1783739,40.0466571,MidAtlantic,Franklin and Marshall156,Fresno,CA,"Fresno, CA",-119.7871247,36.7377981,Pacific,Fresno Pacific157,Fresno,CA,"Fresno, CA",-119.7871247,36.7377981,Pacific,Fresno State158,Frostburg,MD,"Frostburg, MD",-78.928357,39.6581424,MidAtlantic,Frostburg State159,Washington,DC,"Washington, DC",-77.0368707,38.9071923,MidAtlantic,Gallaudet160,Erie,PA,"Erie, PA",-80.085059,42.1292241,MidAtlantic,Gannon161,Boiling Springs,NC,"Boiling Springs, NC",-81.6670407,35.254292,South,Gardner-Webb162,Newberg,OR,"Newberg, OR",-122.9469406,45.3064628,Pacific,George Fox163,Fairfax,VA,"Fairfax, VA",-77.3063733,38.8462236,MidAtlantic,George Mason164,Washington,DC,"Washington, DC",-77.0368707,38.9071923,MidAtlantic,George Washington165,Washington,DC,"Washington, DC",-77.0368707,38.9071923,MidAtlantic,Georgetown166,Athens,GA,"Athens, GA",-83.357567,33.9519347,South,Georgia167,Statesboro,GA,"Statesboro, GA",-81.7831674,32.4487876,South,Georgia Southern168,Atlanta,GA,"Atlanta, GA",-84.3879824,33.7489954,South,Georgia Tech169,Gettysburg,PA,"Gettysburg, PA",-77.2310955,39.8309293,MidAtlantic,Gettysburg170,Wenham,MA,"Wenham, MA",-70.8911612,42.604261,NewEngland,Gordon171,Baltimore,MD,"Baltimore, MD",-76.6121893,39.2903848,MidAtlantic,Goucher172,Phoenix,AZ,"Phoenix, AZ",-112.0740373,33.4483771,SouthWest,Grand Canyon173,Allendale,MI,"Allendale, MI",-85.9540407,42.9721934,MidWest,Grand Valley State174,Greensboro,NC,"Greensboro, NC",-79.7919754,36.0726354,South,Greensboro175,Grinnell,IA,"Grinnell, IA",-92.7232456,41.7434092,MidWest,Grinnell176,Grove City,PA,"Grove City, PA",-80.0886703,41.1578377,MidAtlantic,Grove City177,Greensboro,NC,"Greensboro, NC",-79.7919754,36.0726354,South,Guilford178,St. Peter,MN,"St. Peter, MN",-93.955691,44.3258932,MidWest,Gustavus Adolphus179,Clinton,NY,"Clinton, NY",-75.3785034,43.0484029,MidAtlantic,Hamilton180,St. Paul,MN,"St. Paul, MN",-93.0899578,44.9537029,MidWest,Hamline181,Hampden-Sydney,VA,"Hampden-Sydney, VA",-78.4597173,37.2423746,MidAtlantic,Hampden-Sydney182,Hanover,IN,"Hanover, IN",-85.4735707,38.7142263,MidWest,Hanover183,Oneonta,NY,"Oneonta, NY",-75.0637746,42.4528571,MidAtlantic,Hartwick184,Cambridge,MA,"Cambridge, MA",-71.1097335,42.3736158,NewEngland,Harvard185,Honolulu,HI,"Honolulu, HI",-157.8583333,21.3069444,Hawaii,Hawaii186,Arkadelphia,AR,"Arkadelphia, AR",-93.0537839,34.1209292,South,Henderson State187,Conway,AR,"Conway, AR",-92.4421011,35.0886963,South,Hendrix188,Hillsdale,MI,"Hillsdale, MI",-84.6305101,41.9200472,MidWest,Hillsdale189,Hiram,OH,"Hiram, OH",-81.1437098,41.3125552,MidWest,Hiram190,Roanoke,VA,"Roanoke, VA",-79.9414266,37.2709704,MidAtlantic,Hollins191,New Orleans,LA,"New Orleans, LA",-90.0715323,29.9510658,South,Holy Cross192,Frederick,MD,"Frederick, MD",-77.4105409,39.4142688,MidAtlantic,Hood193,Holland,MI,"Holland, MI",-86.1089301,42.7875235,MidWest,Hope College194,Houston,TX,"Houston, TX",-95.3698028,29.7604267,SouthWest,Houston195,Washington,DC,"Washington, DC",-77.0368707,38.9071923,MidAtlantic,Howard196,New York,NY,"New York, NY",-74.0059728,40.7127753,MidAtlantic,Hunter197,Bangor,ME,"Bangor, ME",-68.7712257,44.8016128,NewEngland,Husson198,Indiana,PA,"Indiana, PA",-79.1096901,40.6850762,MidAtlantic,IUP199,Indianapolis,IN,"Indianapolis, IN",-86.158068,39.768403,MidWest,IUPUI200,Caldwell,ID,"Caldwell, ID",-116.6873596,43.6629384,West,Idaho201,Champaign,IL,"Champaign, IL",-88.2433829,40.1164204,MidWest,Illinois202,Houghton,NY,"Houghton, NY",-78.1572319,42.4233981,MidAtlantic,Illinois College203,Normal,IL,"Normal, IL",-88.9906312,40.5142026,MidWest,Illinois State204,Chicago,IL,"Chicago, IL",-87.6297982,41.8781136,MidWest,Illinois Tech205,Bloomington,IL,"Bloomington, IL",-88.9936873,40.4842027,MidWest,Illinois Wesleyan206,Chicago,IL,"Chicago, IL",-87.6297982,41.8781136,MidWest,Illinois-Chicago207,Immaculata,PA,"Immaculata, PA",-75.5705399,40.0279142,MidAtlantic,Immaculata208,San Antonio,TX,"San Antonio, TX",-98.4936282,29.4241219,SouthWest,Incarnate Word209,Bloomington,IN,"Bloomington, IN",-86.5263857,39.165325,MidWest,Indiana210,Terre Haute,IN,"Terre Haute, IN",-87.4139092,39.4667034,MidWest,Indiana State211,Indianapolis,IN,"Indianapolis, IN",-86.158068,39.768403,MidWest,Indianapolis212,New Rochelle,NY,"New Rochelle, NY",-73.7823549,40.9114882,MidAtlantic,Iona213,Iowa City,IA,"Iowa City, IA",-91.5301683,41.6611277,MidWest,Iowa214,Ames,IA,"Ames, IA",-93.6319131,42.0307812,MidWest,Iowa State215,Ithaca,NY,"Ithaca, NY",-76.5018807,42.4439614,MidAtlantic,Ithaca216,Harrisonburg,VA,"Harrisonburg, VA",-78.8689155,38.4495688,MidAtlantic,James Madison217,University Heights,OH,"University Heights, OH",-81.5373456,41.4978306,MidWest,John Carroll218,New York,NY,"New York, NY",-74.0059728,40.7127753,MidAtlantic,John Jay219,Baltimore,MD,"Baltimore, MD",-76.6121893,39.2903848,MidAtlantic,Johns Hopkins220,Huntingdon,PA,"Huntingdon, PA",-78.0195387,40.4155273,MidAtlantic,Juniata221,Kalamazoo,MI,"Kalamazoo, MI",-85.5872286,42.2917069,MidWest,Kalamazoo222,Lawrence,KS,"Lawrence, KS",-95.2352501,38.9716689,West,Kansas223,Union,NJ,"Union, NJ",-74.2631635,40.6975898,MidAtlantic,Kean224,Keene,NH,"Keene, NH",-72.2781409,42.933692,NewEngland,Keene State225,Lexington,KY,"Lexington, KY",-84.5037164,38.0405837,South,Kentucky226,Gambier,OH,"Gambier, OH",-82.3971038,40.3756194,MidWest,Kenyon227,Bristol,TN,"Bristol, TN",-82.1887444,36.5951059,South,King228,Wilkes-Barre,PA,"Wilkes-Barre, PA",-75.8813075,41.2459149,MidAtlantic,King's229,Galesburg,IL,"Galesburg, IL",-90.3712395,40.9478158,MidWest,Knox230,Kutztown,PA,"Kutztown, PA",-75.7774177,40.5173165,MidAtlantic,Kutztown231,Brooklyn,NY,"Brooklyn, NY",-73.9441579,40.6781784,MidAtlantic,LIU Brooklyn232,Brookville,NY,"Brookville, NY",-73.5673482,40.8131553,MidAtlantic,LIU Post233,Baton Rouge,NA,"Baton Rouge, LA",-91.1871,30.4515,South,LSU234,Philadelphia,PA,"Philadelphia, PA",-75.1652215,39.9525839,MidAtlantic,La Salle235,La Verne,CA,"La Verne, CA",-117.7678355,34.1008426,Pacific,La Verne236,LaGrange,GA,"LaGrange, GA",-85.0322444,33.0362218,South,LaGrange237,Easton,PA,"Easton, PA",-75.2207323,40.688432,MidAtlantic,Lafayette238,Lake Forest,IL,"Lake Forest, IL",-87.840625,42.2586342,MidWest,Lake Forest239,Appleton,WI,"Appleton, WI",-88.4153847,44.2619309,MidWest,Lawrence240,Syracuse,NY,"Syracuse, NY",-76.1474244,43.0481221,MidAtlantic,Le Moyne241,Annville,PA,"Annville, PA",-76.5152443,40.3295359,MidAtlantic,Lebanon Valley242,Banner Elk,NC,"Banner Elk, NC",-81.8715019,36.1631817,South,Lees-McRae243,Bethlehem,PA,"Bethlehem, PA",-75.3704579,40.6259316,MidAtlantic,Lehigh244,Bronx,NY,"Bronx, NY",-73.8648268,40.8447819,MidAtlantic,Lehman245,Hickory,NC,"Hickory, NC",-81.3444573,35.7344538,South,Lenoir-Rhyne246,Romeoville,IL,"Romeoville, IL",-88.0895061,41.6475306,MidWest,Lewis247,Portland,OR,"Portland, OR",-122.6587185,45.5122308,Pacific,Lewis & Clark248,Lynchburg,VA,"Lynchburg, VA",-79.1422464,37.4137536,MidAtlantic,Liberty249,St. Charles,MO,"St. Charles, MO",-90.4974359,38.7881062,MidWest,Lindenwood250,McMinnville,OR,"McMinnville, OR",-123.1987163,45.2101162,Pacific,Linfield251,Lock Haven,PA,"Lock Haven, PA",-77.4469263,41.1370133,MidAtlantic,Lock Haven252,Dubuque,IA,"Dubuque, IA",-90.6645718,42.5005583,MidWest,Loras253,Louisville,KY,"Louisville, KY",-85.7584557,38.2526647,South,Louisville254,Baltimore,MD,"Baltimore, MD",-76.6121893,39.2903848,MidAtlantic,Loyola Maryland255,Los Angeles,CA,"Los Angeles, CA",-118.2436849,34.0522342,Pacific,Loyola Marymount256,Decorah,IA,"Decorah, IA",-91.7857092,43.3033056,MidWest,Luther257,Williamsport,PA,"Williamsport, PA",-77.0010786,41.2411897,MidAtlantic,Lycoming258,Boca Raton,FL,"Boca Raton, FL",-80.1289321,26.3683064,South,Lynn259,Cambridge,MA,"Cambridge, MA",-71.1097335,42.3736158,NewEngland,MIT260,St. Paul,MN,"St. Paul, MN",-93.0899578,44.9537029,MidWest,Macalester261,Orono,ME,"Orono, ME",-68.6719411,44.8831125,NewEngland,Maine262,Castine,ME,"Castine, ME",-68.7989582,44.3888609,NewEngland,Maine Maritime263,Canton,OH,"Canton, OH",-81.378447,40.7989473,MidWest,Malone264,North Manchester,IN,"North Manchester, IN",-85.768597,41.0006005,MidWest,Manchester265,Riverdale,NY,"Riverdale, NY",-73.9109977,40.8940853,MidAtlantic,Manhattan266,Poughkeepsie,NY,"Poughkeepsie, NY",-73.9209701,41.7003713,MidAtlantic,Marist267,Mars Hill,NC,"Mars Hill, NC",-82.5492999,35.8264981,South,Mars Hill268,Huntington,WV,"Huntington, WV",-82.445154,38.4192496,MidAtlantic,Marshall269,Bismarck,ND,"Bismarck, ND",-100.7837392,46.8083268,West,Mary270,Fredericksburg,VA,"Fredericksburg, VA",-77.4605399,38.3031837,MidAtlantic,Mary Washington271,Arlington,VA,"Arlington, VA",-77.0909809,38.8816208,MidAtlantic,Marymount272,Maryville,TN,"Maryville, TN",-83.9704593,35.7564719,South,Maryville273,Scranton,PA,"Scranton, PA",-75.6624122,41.408969,MidAtlantic,Marywood274,Amherst,MA,"Amherst, MA",-72.5198537,42.3732216,NewEngland,Massachusetts275,Westminster,MD,"Westminster, MD",-76.9958149,39.5753791,MidAtlantic,McDaniel276,Lebanon,IL,"Lebanon, IL",-89.8073195,38.6039375,MidWest,McKendree277,Abilene,TX,"Abilene, TX",-99.7331439,32.4487364,SouthWest,McMurry278,North Andover,MA,"North Andover, MA",-71.1350575,42.6987024,NewEngland,Merrimack279,Mechanicsburg,PA,"Mechanicsburg, PA",-77.0085876,40.2142565,MidAtlantic,Messiah280,Coral Gables,FL,"Coral Gables, FL",-80.2635411,25.7491968,South,Miami281,Oxford,OH,"Oxford, OH",-84.745231,39.5069974,MidWest,Miami OH282,Ann Arbor,MI,"Ann Arbor, MI",-83.7430378,42.2808256,MidWest,Michigan283,East Lansing,MI,"East Lansing, MI",-84.4838654,42.7369792,MidWest,Michigan State284,Middlebury,VT,"Middlebury, VT",-73.16734,44.0153371,NewEngland,Middlebury285,NA,NA,NA,NA,NA,NA,Millersville286,Decatur,IL,"Decatur, IL",-88.9548001,39.8403147,MidWest,Millikin287,Oakland,CA,"Oakland, CA",-122.2711137,37.8043637,Pacific,Mills288,Minneapolis,MN,"Minneapolis, MN",-93.2650108,44.977753,MidWest,Minnesota289,Mankato,MN,"Mankato, MN",-93.9993996,44.1635775,MidWest,Minnesota State Mankato290,Moorhead,MN,"Moorhead, MN",-96.7678039,46.8737648,MidWest,Minnesota State Moorhead291,Morris,MN,"Morris, MN",-95.9188889,45.5919444,MidWest,Minnesota-Morris292,Dallas,PA,"Dallas, PA",-75.9632546,41.3361911,MidAtlantic,Misericordia293,Columbia,MO,"Columbia, MO",-92.3340724,38.9517053,MidWest,Missouri294,Rolla,MO,"Rolla, MO",-91.7715303,37.948544,MidWest,Missouri S&T295,St. Louis,MO,"St. Louis, MO",-90.1994042,38.6270025,MidWest,Missouri Saint Louis296,Springfield,MO,"Springfield, MO",-93.2922989,37.2089572,MidWest,Missouri State297,Monmouth,IL,"Monmouth, IL",-90.6473576,40.9114271,MidWest,Monmouth298,Montclair,NJ,"Montclair, NJ",-74.2090053,40.8259007,MidAtlantic,Montclair State299,South Hadley,MA,"South Hadley, MA",-72.5747934,42.2591729,NewEngland,Mount Holyoke300,Newburgh,NY,"Newburgh, NY",-74.0104178,41.5034271,MidAtlantic,Mount Saint Mary301,Emmitsburg,MD,"Emmitsburg, MD",-77.3269307,39.7045417,MidAtlantic,Mount Saint Mary's302,Alliance,OH,"Alliance, OH",-81.1059309,40.9153362,MidWest,Mount Union303,Raleigh,NC,"Raleigh, NC",-78.6381787,35.7795897,South,NC State304,New York,NY,"New York, NY",-74.0059728,40.7127753,MidAtlantic,NYU305,Annapolis,MD,"Annapolis, MD",-76.4921829,38.9784453,MidAtlantic,Navy306,Rochester,NY,"Rochester, NY",-77.6088465,43.1565779,MidAtlantic,Nazareth307,Lincoln,NE,"Lincoln, NE",-96.7025955,40.813616,West,Nebraska308,Kearney,NE,"Kearney, NE",-99.0816784,40.6993303,West,Nebraska Kearney309,Lincoln,NE,"Lincoln, NE",-96.7025955,40.813616,West,Nebraska Wesleyan310,Reno,NV,"Reno, NV",-119.8138027,39.5296329,West,Nevada311,Biddeford,ME,"Biddeford, ME",-70.4533844,43.4925843,NewEngland,New England312,Durham,NH,"Durham, NH",-70.9264393,43.1339545,NewEngland,New Hampshire313,Newark,NJ,"Newark, NJ",-74.1723667,40.735657,MidAtlantic,New Jersey Tech314,Albuquerque,NM,"Albuquerque, NM",-106.650422,35.0843859,SouthWest,New Mexico315,Las Cruces,NM,"Las Cruces, NM",-106.7636538,32.3199396,SouthWest,New Mexico State316,New Rochelle,NY,"New Rochelle, NY",-73.7823549,40.9114882,MidAtlantic,New Rochelle317,Niagara University,NY,"Niagara University, NY",-79.0353197,43.1365152,MidAtlantic,Niagara318,Minneapolis,MN,"Minneapolis, MN",-93.2650108,44.977753,MidWest,North Central319,Jacksonville,FL,"Jacksonville, FL",-81.655651,30.3321838,South,North Florida320,Denton,TX,"Denton, TX",-97.1330683,33.2148412,SouthWest,North Texas321,Boston,MA,"Boston, MA",-71.0588801,42.3600825,NewEngland,Northeastern322,Flagstaff,AZ,"Flagstaff, AZ",-111.651302,35.1982836,SouthWest,Northern Arizona323,Greeley,CO,"Greeley, CO",-104.7091322,40.4233142,West,Northern Colorado324,Cedar Falls,IA,"Cedar Falls, IA",-92.4453161,42.5348993,MidWest,Northern Iowa325,Aberdeen,SD,"Aberdeen, SD",-98.4864829,45.4646985,West,Northern State326,Evanston,IL,"Evanston, IL",-87.6876969,42.0450722,MidWest,Northwestern327,Northfield,VT,"Northfield, VT",-72.6564986,44.1511723,NewEngland,Norwich328,Notre Dame,IN,"Notre Dame, IN",-86.2379328,41.7001908,MidWest,Notre Dame329,Cleveland,OH,"Cleveland, OH",-81.6943605,41.49932,MidWest,Notre Dame College330,Ft. Lauderdale,FL,"Ft. Lauderdale, FL",-80.1373174,26.1224386,South,Nova Southeastern331,Rochester,MI,"Rochester, MI",-83.1338214,42.680588,MidWest,Oakland332,Oberlin,OH,"Oberlin, OH",-82.2173786,41.2939386,MidWest,Oberlin333,Los Angeles,CA,"Los Angeles, CA",-118.2436849,34.0522342,Pacific,Occidental334,Athens,OH,"Athens, OH",-82.1012554,39.3292396,MidWest,Ohio335,Ada,OH,"Ada, OH",-83.8227148,40.7694969,MidWest,Ohio Northern336,Columbus,OH,"Columbus, OH",-82.9987942,39.9611755,MidWest,Ohio State337,Delaware,OH,"Delaware, OH",-83.067965,40.2986724,MidWest,Ohio Wesleyan338,Shawnee,OK,"Shawnee, OK",-96.9253004,35.3272928,West,Oklahoma Baptist339,Oklahoma City,OK,"Oklahoma City, OK",-97.5164276,35.4675602,West,Oklahoma Christian340,Norfolk,VA,"Norfolk, VA",-76.2858726,36.8507689,MidAtlantic,Old Dominion341,Olivet,MI,"Olivet, MI",-84.9241542,42.4414273,MidWest,Olivet342,Corvallis,OR,"Corvallis, OR",-123.2620435,44.5645659,Pacific,Oregon State343,Arkadelphia,AR,"Arkadelphia, AR",-93.0537839,34.1209292,South,Ouachita Baptist344,Clarksville,AR,"Clarksville, AR",-93.4665731,35.4714724,South,Ozarks345,New York,NY,"New York, NY",-74.0059728,40.7127753,MidAtlantic,Pace346,Forest Grove,OR,"Forest Grove, OR",-123.1208596,45.5263514,Pacific,Pacific347,Tacoma,WA,"Tacoma, WA",-122.4442906,47.2528768,Pacific,Pacific Lutheran348,Durham,NC,"Durham, NC",-78.898619,35.9940329,South,Duke349,University Park,PA,"University Park, PA",-77.8653126,40.8147955,MidAtlantic,Penn State350,Logan Township,PA,"Logan Township, PA",-78.4524591,40.5203157,MidAtlantic,Penn State Altoona351,Malibu,CA,"Malibu, CA",-118.7797571,34.0259216,Pacific,Pepperdine352,Misenheimer,NC,"Misenheimer, NC",-80.2883904,35.4848625,South,Pfeiffer353,Bradford,PA,"Bradford, PA",-78.649163,41.9564953,MidAtlantic,Pitt-Bradford354,Pittsburgh,PA,"Pittsburgh, PA",-79.9958864,40.4406248,MidAtlantic,Pittsburgh355,Plymouth,NH,"Plymouth, NH",-71.6881528,43.7570196,NewEngland,Plymouth State356,Claremont,CA,"Claremont, CA",-117.7197785,34.0966764,Pacific,Pomona-Pitzer357,Princeton,NJ,"Princeton, NJ",-74.6672226,40.3572976,MidAtlantic,Princeton358,Elsah,IL,"Elsah, IL",-90.3598364,38.9561594,MidWest,Principia359,Great Falls,MT,"Great Falls, MT",-111.3007715,47.5052849,West,Providence360,Tacoma,WA,"Tacoma, WA",-122.4442906,47.2528768,Pacific,Puget Sound361,NA,NA,NA,NA,NA,NA,Purchase College362,West Lafayette,IN,"West Lafayette, IN",-86.9080655,40.4258686,MidWest,Purdue363,Charlotte,NC,"Charlotte, NC",-80.8431267,35.2270869,South,Queens364,Rochester,NY,"Rochester, NY",-77.6088465,43.1565779,MidAtlantic,RIT365,Mahwah,NJ,"Mahwah, NJ",-74.1435843,41.0886216,MidAtlantic,Ramapo366,Lynchburg,VA,"Lynchburg, VA",-79.1422464,37.4137536,MidAtlantic,Randolph367,Ashland,VA,"Ashland, VA",-77.4799837,37.7590318,MidAtlantic,Randolph Macon368,Redlands,CA,"Redlands, CA",-117.1825381,34.0555693,Pacific,Redlands369,Denver,CO,"Denver, CO",-104.990251,39.7392358,West,Regis370,Troy,NY,"Troy, NY",-73.6917851,42.7284117,MidAtlantic,Rensselaer371,Kingston,RI,"Kingston, RI",-71.5225598,41.4803791,NewEngland,Rhode Island372,Memphis,TN,"Memphis, TN",-90.0489801,35.1495343,South,Rhodes373,Houston,TX,"Houston, TX",-95.3698028,29.7604267,SouthWest,Rice374,Richmond,VA,"Richmond, VA",-77.4360481,37.5407246,MidAtlantic,Richmond375,Lawrenceville,NJ,"Lawrenceville, NJ",-74.7361013,40.3016375,MidAtlantic,Rider376,Ripon,WI,"Ripon, WI",-88.8359447,43.8422049,MidWest,Ripon377,Salem,VA,"Salem, VA",-80.0547626,37.2934681,MidAtlantic,Roanoke378,Rochester,NY,"Rochester, NY",-77.6088465,43.1565779,MidAtlantic,Roberts Wesleyan379,Rochester,NY,"Rochester, NY",-77.6088465,43.1565779,MidAtlantic,Rochester380,Bristol,RI,"Bristol, RI",-71.2662025,41.6771101,NewEngland,Roger Williams381,Winter Park,FL,"Winter Park, FL",-81.3392352,28.5999998,South,Rollins382,Terre Haute,IN,"Terre Haute, IN",-87.4139092,39.4667034,MidWest,Rose-Hulman383,Glassboro,NJ,"Glassboro, NJ",-75.1118422,39.7028923,MidAtlantic,Rowan384,Piscataway,NJ,"Piscataway, NJ",-74.4642861,40.554887,MidAtlantic,Rutgers385,Dallas,TX,"Dallas, TX",-96.7969879,32.7766642,SouthWest,SMU386,Binghamton,NY,"Binghamton, NY",-75.9179738,42.0986867,MidAtlantic,SUNY Binghamton387,Brockport,NY,"Brockport, NY",-77.9391797,43.2136713,MidAtlantic,SUNY Brockport388,Buffalo,NY,"Buffalo, NY",-78.8783689,42.8864468,MidAtlantic,SUNY Buffalo State389,Cobleskill,NY,"Cobleskill, NY",-74.4854172,42.677853,MidAtlantic,SUNY Cobleskill390,Cortland,NY,"Cortland, NY",-76.1804843,42.6011813,MidAtlantic,SUNY Cortland391,Delhi,NY,"Delhi, NY",-74.9159946,42.2781401,MidAtlantic,SUNY Delhi392,Fredonia,NY,"Fredonia, NY",-79.3317105,42.4400576,MidAtlantic,SUNY Fredonia393,Geneseo,NY,"Geneseo, NY",-77.816947,42.795896,MidAtlantic,SUNY Geneseo394,Throggs Neck,NY,"Throggs Neck, NY",-73.8213213,40.818399,MidAtlantic,SUNY Maritime395,New Paltz,NY,"New Paltz, NY",-74.0868095,41.7475933,MidAtlantic,SUNY New Paltz396,Old Westbury,NY,"Old Westbury, NY",-73.5995717,40.7887113,MidAtlantic,SUNY Old Westbury397,Oneonta,NY,"Oneonta, NY",-75.0637746,42.4528571,MidAtlantic,SUNY Oneonta398,Oswego,NY,"Oswego, NY",-76.5104973,43.4553461,MidAtlantic,SUNY Oswego399,Potsdam,NY,"Potsdam, NY",-74.9813084,44.6697805,MidAtlantic,SUNY Potsdam400,Stony Brook,NY,"Stony Brook, NY",-73.1409429,40.9256538,MidAtlantic,SUNY Stony Brook401,Fairfield,CT,"Fairfield, CT",-73.2612615,41.1408363,NewEngland,Sacred Heart402,University Center,MI,"University Center, MI",-83.984501,43.5375937,MidWest,Saginaw Valley State403,St. Joseph,MN,"St. Joseph, MN",-94.317966,45.5647724,MidWest,Saint Benedict404,St. Bonaventure,NY,"St. Bonaventure, NY",-78.4750213,42.0803426,MidAtlantic,Saint Bonaventure405,St. Cloud,MN,"St. Cloud, MN",-94.1632404,45.5579451,MidWest,Saint Cloud State406,Fort Wayne,IN,"Fort Wayne, IN",-85.1393513,41.079273,MidWest,Saint Francis407,Loretto,PA,"Loretto, PA",-78.630296,40.5031263,MidAtlantic,Saint Francis PA408,Old Westbury,NY,"Old Westbury, NY",-73.5995717,40.7887113,MidAtlantic,Saint Joseph CT409,Brooklyn,NY,"Brooklyn, NY",-73.9441579,40.6781784,MidAtlantic,Saint Joseph's Brooklyn410,Patchogue,NY,"Patchogue, NY",-73.019343,40.7659783,MidAtlantic,Saint Joseph's Long Island411,Standish,ME,"Standish, ME",-70.5509356,43.7355927,NewEngland,Saint Joseph's ME412,Canton,NY,"Canton, NY",-75.1690942,44.5956163,MidAtlantic,Saint Lawrence413,Saint Leo,FL,"Saint Leo, FL",-82.2584191,28.3372251,South,Saint Leo414,St. Louis,MO,"St. Louis, MO",-90.1994042,38.6270025,MidWest,Saint Louis415,Winona,MN,"Winona, MN",-91.6663523,44.0553908,MidWest,Saint Mary's MN416,De Pere,WI,"De Pere, WI",-88.0603806,44.4488805,MidWest,Saint Norbert417,Jersey City,NJ,"Jersey City, NJ",-74.0431435,40.7177545,MidAtlantic,Saint Peter's418,Albany,NY,"Albany, NY",-73.7562317,42.6525793,MidAtlantic,Saint Rose419,Latrobe,PA,"Latrobe, PA",-79.3794811,40.3211808,MidAtlantic,Saint Vincent420,Salem,WV,"Salem, WV",-80.5589856,39.2828653,MidAtlantic,Salem421,NA,NA,NA,NA,NA,NA,Salem University422,Salisbury,MD,"Salisbury, MD",-75.5993692,38.3606736,MidAtlantic,Salisbury423,San Diego,CA,"San Diego, CA",-117.1610838,32.715738,Pacific,San Diego424,San Diego,CA,"San Diego, CA",-117.1610838,32.715738,Pacific,San Diego State425,San Jose,CA,"San Jose, CA",-121.8863286,37.3382082,Pacific,San Jose State426,Bronxville,NY,"Bronxville, NY",-73.8320784,40.9381544,MidAtlantic,Sarah Lawrence427,Scranton,PA,"Scranton, PA",-75.6624122,41.408969,MidAtlantic,Scranton428,Seattle,WA,"Seattle, WA",-122.3320708,47.6062095,Pacific,Seattle429,South Orange,NJ,"South Orange, NJ",-74.2609903,40.7489277,MidAtlantic,Seton Hall430,Sewanee,TN,"Sewanee, TN",-85.9210899,35.2031373,South,Sewanee431,Shippensburg,PA,"Shippensburg, PA",-77.5202647,40.0506453,MidAtlantic,Shippensburg432,Loudonville,NY,"Loudonville, NY",-73.7548424,42.7048009,MidAtlantic,Siena433,Boston,MA,"Boston, MA",-71.0588801,42.3600825,NewEngland,Simmons434,Burnaby,BC,"Burnaby, BC",-122.9805104,49.2488091,Pacific,Simon Fraser435,Redding,CA,"Redding, CA",-122.3916754,40.5865396,Pacific,Simpson436,Sioux Falls,SD,"Sioux Falls, SD",-96.728333,43.5473028,West,Sioux Falls437,Saratoga Springs,NY,"Saratoga Springs, NY",-73.7845651,43.0831301,MidAtlantic,Skidmore438,Northampton,MA,"Northampton, MA",-72.6412013,42.3250896,NewEngland,Smith439,Columbia,SC,"Columbia, SC",-81.0348144,34.0007104,South,South Carolina440,Vermillion,SD,"Vermillion, SD",-96.9292104,42.7794417,West,South Dakota441,Brookings,SD,"Brookings, SD",-96.7983877,44.3113573,West,South Dakota State442,New Haven,CT,"New Haven, CT",-72.9278835,41.308274,NewEngland,Southern Connecticut State443,Carbondale,IL,"Carbondale, IL",-89.2167501,37.7272727,MidWest,Southern Illinois444,Georgetown,TX,"Georgetown, TX",-97.6779842,30.6332618,SouthWest,Southwestern445,Springfield,MA,"Springfield, MA",-72.589811,42.1014831,NewEngland,Springfield446,Annapolis,MD,"Annapolis, MD",-76.4921829,38.9784453,MidAtlantic,St. John's447,St. Paul,MN,"St. Paul, MN",-93.0899578,44.9537029,MidWest,St. Kate's448,St. Marys City,MD,"St. Marys City, MD",-76.4343173,38.1872404,MidAtlantic,St. Mary's MD449,Colchester,VT,"Colchester, VT",-73.1479068,44.5439375,NewEngland,St. Michael's450,Northfield,MN,"Northfield, MN",-93.161604,44.4582983,MidWest,St. Olaf451,Houston,TX,"Houston, TX",-95.3698028,29.7604267,SouthWest,St. Thomas452,Stanford,CA,"Stanford, CA",-122.1660756,37.424106,Pacific,Stanford453,Staten Island,NY,"Staten Island, NY",-74.1502007,40.5795317,MidAtlantic,Staten Island454,Hoboken,NJ,"Hoboken, NJ",-74.0323626,40.7439905,MidAtlantic,Stevens455,Stevenson,MD,"Stevenson, MD",-76.7132892,39.4105843,MidAtlantic,Stevenson456,Selinsgrove,PA,"Selinsgrove, PA",-76.8621935,40.7989735,MidAtlantic,Susquehanna457,Swarthmore,PA,"Swarthmore, PA",-75.3499123,39.9020565,MidAtlantic,Swarthmore458,Sweet Briar,VA,"Sweet Briar, VA",-79.0801084,37.5565736,MidAtlantic,Sweet Briar459,Ewing,NJ,"Ewing, NJ",-74.7909125,40.2599864,MidAtlantic,TCNJ460,Tampa,FL,"Tampa, FL",-82.4571776,27.950575,South,Tampa461,Knoxville,TN,"Knoxville, TN",-83.9207392,35.9606384,South,Tennessee462,Austin,TX,"Austin, TX",-97.7430608,30.267153,SouthWest,Texas463,College Station,TX,"College Station, TX",-96.3344068,30.627977,SouthWest,Texas A&M464,Fort Worth,TX,"Fort Worth, TX",-97.3307658,32.7554883,SouthWest,Texas Christian465,Odessa,TX,"Odessa, TX",-102.3676431,31.8456816,SouthWest,Texas Permian Basin466,Crestview Hills,KY,"Crestview Hills, KY",-84.5849438,39.0272829,South,Thomas More467,Tiffin,OH,"Tiffin, OH",-83.1779746,41.1144992,MidWest,Tiffin468,Toledo,OH,"Toledo, OH",-83.5378674,41.6528052,MidWest,Toledo469,Towson,MD,"Towson, MD",-76.6019125,39.4014955,MidAtlantic,Towson470,Lexington,KY,"Lexington, KY",-84.5037164,38.0405837,South,Transylvania471,Hartford,CT,"Hartford, CT",-72.6733723,41.7658043,NewEngland,Trinity472,San Antonio,TX,"San Antonio, TX",-98.4936282,29.4241219,SouthWest,Trinity U.473,Kirksville,MO,"Kirksville, MO",-92.5832496,40.1947539,MidWest,Truman State474,Medford,MA,"Medford, MA",-71.1061639,42.4184296,NewEngland,Tufts475,New Orleans,LA,"New Orleans, LA",-90.0715323,29.9510658,South,Tulane476,Davis,CA,"Davis, CA",-121.7405167,38.5449065,Pacific,UC Davis477,Santa Barbara,CA,"Santa Barbara, CA",-119.6981901,34.4208305,Pacific,UC Santa Barbara478,NA,NA,NA,NA,NA,NA,UC Santa Curz479,Los Angeles,CA,"Los Angeles, CA",-118.2436849,34.0522342,Pacific,UCLA480,NA,NA,NA,NA,NA,NA,UCSD481,Storrs,CT,"Storrs, CT",-72.2495231,41.8084314,NewEngland,UConn482,North Dartmouth,MA,"North Dartmouth, MA",-70.9694555,41.640396,NewEngland,UM Dartmouth483,Baltimore,MD,"Baltimore, MD",-76.6121893,39.2903848,MidAtlantic,UMBC484,Omaha,NE,"Omaha, NE",-95.9345034,41.2565369,West,UN Omaha485,NA,NA,NA,NA,NA,NA,UNC486,Asheville,NC,"Asheville, NC",-82.5514869,35.5950581,South,UNC Asheville487,Wilmington,NC,"Wilmington, NC",-77.8868117,34.2103894,South,UNC Wilmington488,Las Vegas,NV,"Las Vegas, NV",-115.1398296,36.1699412,West,UNLV489,Los Angeles,CA,"Los Angeles, CA",-118.2436849,34.0522342,Pacific,USC490,NA,NA,NA,NA,NA,NA,USMMA491,Eau Claire,WI,"Eau Claire, WI",-91.4984941,44.811349,MidWest,UW-Eau Crosse492,Green Bay,WI,"Green Bay, WI",-88.0132958,44.5133188,MidWest,UW-Green Bay493,La Crosse,WI,"La Crosse, WI",-91.2519017,43.8137751,MidWest,UW-La Crosse494,Milwaukee,WI,"Milwaukee, WI",-87.9064736,43.0389025,MidWest,UW-Milwaukee495,Oshkosh,WI,"Oshkosh, WI",-88.5426136,44.0247062,MidWest,UW-Oshkosh496,Stevens Point,WI,"Stevens Point, WI",-89.574563,44.5235792,MidWest,UW-Stevens Point497,Whitewater,WI,"Whitewater, WI",-88.7323272,42.8336205,MidWest,UW-Whitewater498,Barbourville,KY,"Barbourville, KY",-83.8888138,36.8664765,South,Union499,Urbana,OH,"Urbana, OH",-83.7524298,40.1083912,MidWest,Urbana500,Collegeville,PA,"Collegeville, PA",-75.451571,40.1856597,MidAtlantic,Ursinus501,Pepper Pike,OH,"Pepper Pike, OH",-81.4637295,41.4783865,MidWest,Ursuline502,Salt Lake City,UT,"Salt Lake City, UT",-111.8910474,40.7607793,West,Utah503,Utica,NY,"Utica, NY",-75.232664,43.100903,MidAtlantic,Utica504,Valparaiso,IN,"Valparaiso, IN",-87.0611412,41.4730948,MidWest,Valparaiso505,Nashville,TN,"Nashville, TN",-86.7816016,36.1626638,South,Vanderbilt506,Poughkeepsie,NY,"Poughkeepsie, NY",-73.9209701,41.7003713,MidAtlantic,Vassar507,Burlington,VT,"Burlington, VT",-73.212072,44.4758825,NewEngland,Vermont508,Villanova,PA,"Villanova, PA",-75.3491813,40.0375832,MidAtlantic,Villanova509,Charlottesville,VA,"Charlottesville, VA",-78.4766781,38.0293059,MidAtlantic,Virginia510,Lexington,VA,"Lexington, VA",-79.4428157,37.7840208,MidAtlantic,Virginia Military Institute511,Blacksburg,VA,"Blacksburg, VA",-80.4139393,37.2295733,MidAtlantic,Virginia Tech512,Norfolk,VA,"Norfolk, VA",-76.2858726,36.8507689,MidAtlantic,Virginia Wesleyan513,Crawfordsville,IN,"Crawfordsville, IN",-86.8744516,40.0411536,MidWest,Wabash514,Staten Island,NY,"Staten Island, NY",-74.1502007,40.5795317,MidAtlantic,Wagner515,St. Louis,MO,"St. Louis, MO",-90.1994042,38.6270025,MidWest,Wash U. MO516,Washington,PA,"Washington, PA",-80.2461714,40.17396,MidAtlantic,Washington & Jefferson517,Holland,MI,"Holland, MI",-86.1089301,42.7875235,MidWest,Washington College518,Pullman,WA,"Pullman, WA",-117.1817377,46.7297771,Pacific,Washington State519,Lexington,VA,"Lexington, VA",-79.4428157,37.7840208,MidAtlantic,Washington and Lee520,Detroit,MI,"Detroit, MI",-83.0457538,42.331427,MidWest,Wayne State521,Wellesley,MA,"Wellesley, MA",-71.2923877,42.296797,NewEngland,Wellesley522,Aurora,NY,"Aurora, NY",-76.7024485,42.7539591,MidAtlantic,Wells523,Macon,GA,"Macon, GA",-83.6324022,32.8406946,South,Wesleyan524,West Chester,PA,"West Chester, PA",-75.6054882,39.9606643,MidAtlantic,West Chester525,Pensacola,FL,"Pensacola, FL",-87.2169149,30.421309,South,West Florida526,Morgantown,WV,"Morgantown, WV",-79.9558968,39.629526,MidAtlantic,West Virginia527,Buckhannon,WV,"Buckhannon, WV",-80.2320276,38.9939872,MidAtlantic,West Virginia Wesleyan528,Gunnison,CO,"Gunnison, CO",-106.9253207,38.5458246,West,Western Colorado529,Danbury,CT,"Danbury, CT",-73.4540111,41.394817,NewEngland,Western Connecticut State530,Macomb,IL,"Macomb, IL",-90.6717971,40.4592076,MidWest,Western Illinois531,Springfield,MA,"Springfield, MA",-72.589811,42.1014831,NewEngland,Western New England532,Westfield,MA,"Westfield, MA",-72.749538,42.1250929,NewEngland,Westfield State533,Fulton,MO,"Fulton, MO",-91.9479586,38.8467082,MidWest,Westminster534,Wheaton,IL,"Wheaton, IL",-88.1070127,41.8661403,MidWest,Wheaton IL535,Norton,MA,"Norton, MA",-71.1869963,41.9667703,NewEngland,Wheaton MA536,Walla Walla,WA,"Walla Walla, WA",-118.3430208,46.0645809,Pacific,Whitman537,Whittier,CA,"Whittier, CA",-118.032844,33.9791793,Pacific,Whittier538,Spokane,WA,"Spokane, WA",-117.4260465,47.6587802,Pacific,Whitworth539,Chester,PA,"Chester, PA",-75.3557457,39.849557,MidAtlantic,Widener540,Wilkes-Barre,PA,"Wilkes-Barre, PA",-75.8813075,41.2459149,MidAtlantic,Wilkes541,Salem,OR,"Salem, OR",-123.0350963,44.9428975,Pacific,Willamette542,Williamsburg,VA,"Williamsburg, VA",-76.7074571,37.2707022,MidAtlantic,William & Mary543,Liberty,MO,"Liberty, MO",-94.4191177,39.2461138,MidWest,William Jewell544,Wayne,NJ,"Wayne, NJ",-74.2765441,40.9253725,MidAtlantic,William Paterson545,Raleigh,NC,"Raleigh, NC",-78.6381787,35.7795897,South,William Peace546,Geneva,NY,"Geneva, NY",-76.985557,42.8679836,MidAtlantic,William Smith547,Williamstown,MA,"Williamstown, MA",-73.2036898,42.7120196,NewEngland,Williams548,New Castle,DE,"New Castle, DE",-75.5668166,39.6620397,MidAtlantic,Wilmington549,Wingate,NC,"Wingate, NC",-80.4492319,34.9843176,South,Wingate550,Madison,WI,"Madison, WI",-89.4012302,43.0730517,MidWest,Wisconsin551,Springfield,OH,"Springfield, OH",-83.8088171,39.9242266,MidWest,Wittenberg552,Wooster,OH,"Wooster, OH",-81.935143,40.8050565,MidWest,Wooster553,Worcester,MA,"Worcester, MA",-71.8022934,42.2625932,NewEngland,Worcester Poly554,Laramie,WY,"Laramie, WY",-105.5911007,41.3113669,West,Wyoming555,Cincinnati,OH,"Cincinnati, OH",-84.5120196,39.1031182,MidWest,Xavier556,New Haven,CT,"New Haven, CT",-72.9278835,41.308274,NewEngland,Yale557,York,NE,"York, NE",-97.5920867,40.8673915,West,York558,Youngstown,OH,"Youngstown, OH",-80.6495194,41.0997803,MidWest,Youngstown State
