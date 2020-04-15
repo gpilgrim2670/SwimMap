@@ -388,7 +388,7 @@ ui <- fluidPage(
           #             HTML('<img src="GregPicCrop.png", height="110px"    
           # style="float:right"/>','<p style="color:black"></p>'),
                       h4(p("About the Author")),
-                      h5(p("Greg is a former collegiate swimmer.  After completing his undergrad degree he joined USMS, earned a PhD in chemistry, and began officiating swimming at the high school level.  He now swims with his local USMS team and serves as an official in USA Swimming while also working as an engineer.")
+                      h5(p("Greg is a former collegiate swimmer.  After completing his undergrad degree he joined USMS, earned a PhD in chemistry, and began officiating swimming at the high school level.  He now swims with his local USMS team and serves as an official in USA Swimming while also working as an engineer.  He is the author the SwimmeR package for working with swimming results in the R environment.")
                       ),
           HTML('<img src="GregPicCrop.png", height="200px"'),
           br()
