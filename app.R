@@ -6,6 +6,7 @@ library(ggrepel)
 library(tidyr)
 library(shinycssloaders)
 library(shinythemes)
+library(SwimmeR)
 
 #Import Data
 BigTop100 <- read.csv("BigTop100.csv")
@@ -14,13 +15,13 @@ uniquecities <- read.csv("uniquecities.csv")
 
 Events <- ordered(BigTop100$Event, levels = c("50 Free", "100 Free", "200 Free", "500 Free", "1000 Free", "1650 Free", "100 Fly", "200 Fly", "100 Back", "200 Back", "100 Breast", "200 Breast", "100 IM", "200 IM", "400 IM", "200 Free Relay", "400 Free Relay", "800 Free Relay", "200 Medlay Relay", "400 Medlay Relay"))
 
-mmss_format <- function(x, ...) {
-  sec <- x%%60
-  min <- x%/%60
-  sec <- base::sprintf("%05.2f", sec)
-  ifelse(min == 0, paste(sec), 
-         paste(min, sec, sep = ":"))
-}
+# mmss_format <- function(x, ...) {
+#   sec <- x%%60
+#   min <- x%/%60
+#   sec <- base::sprintf("%05.2f", sec)
+#   ifelse(min == 0, paste(sec), 
+#          paste(min, sec, sep = ":"))
+# }
 
 button_color_css <- "
 #DivCompClear, #FinderClear, #EnterTimes{
@@ -506,7 +507,10 @@ server <- function(input, output, session) {
           theme(plot.background = element_rect(fill = "white"), plot.margin = unit(c(0.5,0.5,0.5,0.5), "cm")) +
           guides(alpha = FALSE) +
           theme(legend.text = element_text(size = 12),
-                legend.title = element_text(size = 15))
+                legend.title = element_text(size = 15)) +
+          theme(plot.background = element_rect(
+            color = "white"
+          ))
         
       }
     })
