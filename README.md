@@ -22,4 +22,4 @@ Contians a brief discussion on definitions of different school types (National L
 Contains details about the SwimMap project and author
 
 #### More R based Swimming Content
-Greg Pilgrim, the author of SwimMap, also wrote and continues to update the `SwimmeR` package, available from CRAN or (github)[https://github.com/gpilgrim2670/SwimmeR].  He also runs the blog (Swimming + Data Science)[https://pilgrim.netlify.app/].
+Greg Pilgrim, the author of SwimMap, also wrote and continues to update the `SwimmeR` package, available from CRAN or [github](https://github.com/gpilgrim2670/SwimmeR).  He also runs the blog [Swimming + Data Science](https://pilgrim.netlify.app/).
