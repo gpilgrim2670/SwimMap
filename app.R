@@ -145,7 +145,7 @@ ui <- fluidPage(
                         column(6,
                                selectizeInput(inputId = "SchoolSelectA",
                                               label = "Select Schools (Max 4)",
-                                              choices = levels(BigTop100$Team),
+                                              choices = unique(BigTop100$Team),
                                               multiple = TRUE,
                                               options = list(maxItems = 4, placeholder = 'Enter school name',
                                                              onInitialize = I('function() { this.setValue(""); }'))
