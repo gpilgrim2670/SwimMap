@@ -19,7 +19,7 @@ Events <- ordered(BigTop100$Event, levels = c("50 Free", "100 Free", "200 Free",
 #   sec <- x%%60
 #   min <- x%/%60
 #   sec <- base::sprintf("%05.2f", sec)
-#   ifelse(min == 0, paste(sec), 
+#   ifelse(min == 0, paste(sec),
 #          paste(min, sec, sep = ":"))
 # }
 
@@ -35,7 +35,7 @@ font-size: 15px;
 
 # Define UI
 ui <- fluidPage(
-  
+
 #Navbar structure for UI
   navbarPage("NCAA Swimming", theme = shinytheme("lumen"),
              tabPanel("Program Finder", fluid = TRUE, icon = icon("globe-americas"),
@@ -43,17 +43,17 @@ ui <- fluidPage(
                       # Sidebar layout with a input and output definitions
                       sidebarLayout(
                         sidebarPanel(
-                          
+
                           titlePanel("Desired Program Characteristics"),
                           #shinythemes::themeSelector(),
                           fluidRow(column(3,
-                                          
+
                                           # Select which Gender(s) to plot
                                           checkboxGroupInput(inputId = "GenderFinder",
                                                              label = "Select Gender(s):",
                                                              choices = c("Male" = "M", "Female" = "F"),
                                                              selected = "M"),
-                                          
+
                                           # Select which Division(s) to plot
                                           checkboxGroupInput(inputId = "DivisionFinder",
                                                              label = "Select Division(s):",
@@ -104,7 +104,7 @@ ui <- fluidPage(
                                              label = "Select School Type(s):",
                                              choices = c("National University", "Regional University", "National Liberal Arts College", "Regional College"),
                                              selected = c("National University", "Regional University", "National Liberal Arts College", "Regional College")),
-                          
+
                           sliderInput(inputId = "School_RankFinder",
                                       label = "School Rank",
                                       min = 1,
@@ -115,7 +115,7 @@ ui <- fluidPage(
                         mainPanel(
                           fluidRow(
                             column(3, offset = 9,
-                                   
+
                                    radioButtons(inputId = "show_NamesFinder",
                                                 label = "Display:",
                                                 choices = c("School Names", "City Names", "Neither"),
@@ -128,7 +128,7 @@ ui <- fluidPage(
                           fluidRow(column(7,
                                           helpText("Tip: Click locations to populate table below with information on schools in a specific area")
                                           #actionButton(inputId = "draw", label = "Input Event and Times")
-                                          
+
                           ),
                           column(width = 2, offset = 2, conditionalPanel(
                             condition = "output.schoolstableFinder",
@@ -137,8 +137,8 @@ ui <- fluidPage(
                           fluidRow(
                           withSpinner(dataTableOutput(outputId = "schoolstableFinder"))))
                       )
-             ),  
-             
+             ),
+
              tabPanel("Program Comparisons", fluid = TRUE, icon = icon("swimmer"),
                       titlePanel("Program Comparisons"),
                       fluidRow(
@@ -171,7 +171,7 @@ ui <- fluidPage(
                       hr(),
                       fluidRow(
                         column(6,
-                               withSpinner(plotOutput(outputId = "SchoolCompPlotEvent" 
+                               withSpinner(plotOutput(outputId = "SchoolCompPlotEvent"
                                           # brush = "brush_SchoolComp"
                                )),
                                br(),
@@ -195,9 +195,9 @@ ui <- fluidPage(
                                            choices = levels(Events),
                                            selected = "50 Free")),
                         column(4,
-                               sliderInput(inputId = "DivCompRankA", 
-                                           label = "Top Times Range:", 
-                                           min = 1, max = 3500, 
+                               sliderInput(inputId = "DivCompRankA",
+                                           label = "Top Times Range:",
+                                           min = 1, max = 3500,
                                            value = c(1,250))),
                         column(4,
                                checkboxGroupInput(inputId = "DivCompGenderA",
@@ -209,7 +209,7 @@ ui <- fluidPage(
                       br(),
                       fluidRow(
                         column(6,
-                               withSpinner(plotOutput(outputId = "DivCompPlotA", 
+                               withSpinner(plotOutput(outputId = "DivCompPlotA",
                                                       brush = "brush_plotDiv"
                                                       #click = "click_plotDiv"
                                                       ))),
@@ -223,13 +223,13 @@ ui <- fluidPage(
                       dataTableOutput(outputId = "DivCompTable")
                         ))),
              tabPanel("NCAA Regulation Differences By Division", fluid = TRUE,
-                        
+
                         column(6,
                                br(),
                                h4("Differences Between NCAA Divisions"),
                                h5(p(
                                  "The NCAA rules regarding eligibility of student athletes, scholarships, transfers, time commitments, etc. can be quite complex.  This is intended only as a general primer.  For more information please visit the ",
-                                 a("NCAA.", 
+                                 a("NCAA.",
                                    href = "http://www.ncaa.org/about/frequently-asked-questions-about-ncaa"))),
                                h5(p("There are three divisions in the NCAA.  They differ in their makeup, in terms of which types of schools choose to participate in which division, but the most significant differences between the divisions concern athletic scholarships."
                                )),
@@ -244,7 +244,7 @@ ui <- fluidPage(
                                )),
                                h5(p(
                                  "Regarding time commitments, Division I and II teams are permitted by the NCAA to practice out of season.  Division III teams may only practice during the season.  In all cases seasons are dined by NCAA rules, with strict limits for what is and isn’t in-season.  All divisions are bound by the “20-hour” rule, where athletes are only permitted to practice for 20 hours a week during the season.  In reality athletes practice often practice much more, especially in ",
-                                 a("Division I.", 
+                                 a("Division I.",
                                    href = "https://www.businessinsider.com/college-student-athletes-spend-40-hours-a-week-practicing-2015-1"))
                                ))),
 
@@ -263,9 +263,9 @@ ui <- fluidPage(
                                              choices = c("New England" = "NewEngland", "Mid Atlantic" = "MidAtlantic", "Mid West" = "MidWest", "South", "West", "South West" = "SouthWest", "Pacific", "Alaska", "Hawaii"),
                                              selected = c("NewEngland", "MidAtlantic", "MidWest", "South", "West", "SouthWest", "Pacific", "Alaska", "Hawaii")),
                           # Set Top X Rank
-                          sliderInput(inputId = "RankDI", 
-                                      label = "Top Times Range:", 
-                                      min = 1, max = 3500, 
+                          sliderInput(inputId = "RankDI",
+                                      label = "Top Times Range:",
+                                      min = 1, max = 3500,
                                       value = c(1,250)),
                           # Set school rank
                           sliderInput(inputId = "School_RankDI",
@@ -296,9 +296,9 @@ ui <- fluidPage(
                                              choices = c("New England" = "NewEngland", "Mid Atlantic" = "MidAtlantic", "Mid West" = "MidWest", "South", "West", "South West" = "SouthWest", "Pacific", "Alaska", "Hawaii"),
                                              selected = c("NewEngland", "MidAtlantic", "MidWest", "South", "West", "SouthWest", "Pacific", "Alaska", "Hawaii")),
                           # Set Top X Rank
-                          sliderInput(inputId = "RankDII", 
-                                      label = "Top Times Range:", 
-                                      min = 1, max = 3500, 
+                          sliderInput(inputId = "RankDII",
+                                      label = "Top Times Range:",
+                                      min = 1, max = 3500,
                                       value = c(1,250)),
                           # Set school rank
                           sliderInput(inputId = "School_RankDII",
@@ -306,7 +306,7 @@ ui <- fluidPage(
                                       min = 1,
                                       max = 250,
                                       value = c(1,250))
-                        ), 
+                        ),
                         mainPanel(
                           withSpinner(plotOutput(outputId = "barplotDII")),
                           textOutput(outputId = "description_DII")
@@ -328,9 +328,9 @@ ui <- fluidPage(
                                              choices = c("New England" = "NewEngland", "Mid Atlantic" = "MidAtlantic", "Mid West" = "MidWest", "South", "West", "South West" = "SouthWest", "Pacific", "Alaska", "Hawaii"),
                                              selected = c("NewEngland", "MidAtlantic", "MidWest", "South", "West", "SouthWest", "Pacific", "Alaska", "Hawaii")),
                           # Set Top X Rank
-                          sliderInput(inputId = "RankDIII", 
-                                      label = "Top Times Range:", 
-                                      min = 1, max = 3500, 
+                          sliderInput(inputId = "RankDIII",
+                                      label = "Top Times Range:",
+                                      min = 1, max = 3500,
                                       value = c(1,250)),
                           # Set school rank
                           sliderInput(inputId = "School_RankDIII",
@@ -338,7 +338,7 @@ ui <- fluidPage(
                                       min = 1,
                                       max = 250,
                                       value = c(1,250))
-                        ), 
+                        ),
                         mainPanel(
                           withSpinner(plotOutput(outputId = "barplotDIII")),
                           textOutput(outputId = "description_DIII")
@@ -366,9 +366,9 @@ ui <- fluidPage(
                                       href = "https://www.usnews.com/education/best-colleges/articles/ranking-criteria-and-weights"))
                                )
                       ))
-                      
+
                         ),
-             
+
                tabPanel("About", fluid = TRUE,
                fluidRow(
                column(6,
@@ -378,17 +378,20 @@ ui <- fluidPage(
                          br(),
                          h5(p("The project began as an attempt to combine my interest in swimming with a need to practice R, a programming language used primarily for analyzing and reporting data.  It has two components.  The first is this app, which queries a dataset to return information in the form of plots, data tables etc.  The second is the dataset itself, which I assembled by tying together information from the sources below.")),
                          br(),
-                         h5(p("I hope you find it interesting and/or useful.  Any comments or questions are welcome at gpilgrim2607@gmail.com"))
+                         h5(p("I hope you find it interesting and/or useful.  Any comments or questions are welcome at gpilgrim2607@gmail.com"),
+                            p("The source code for this Shiny app is available ", a("on github", href = "https://github.com/gpilgrim2670/SwimMap"), "."))
 
                       #hr(),
-                      
+
                ),
                column(6,
                       #br(),
-          #             HTML('<img src="GregPicCrop.png", height="110px"    
+          #             HTML('<img src="GregPicCrop.png", height="110px"
           # style="float:right"/>','<p style="color:black"></p>'),
                       h4(p("About the Author")),
-                      h5(p("Greg is a former collegiate swimmer.  After completing his undergrad degree he joined USMS, earned a PhD in chemistry, and began officiating swimming at the high school level.  He now swims with his local USMS team and serves as an official in USA Swimming while also working as an engineer.  He is the author the SwimmeR package for working with swimming results in the R environment.")
+                      h5(p("Greg is a former collegiate swimmer.  After completing his undergrad degree he joined USMS, earned a PhD in chemistry, and began officiating swimming at the high school level.  He now swims with his local USMS team and serves as an official in USA Swimming while also working as an engineer.  He is the author the", a("SwimmeR package", href = "https://github.com/gpilgrim2670/SwimmeR"), "for working with swimming results in the R environment."),
+                         p("For more work with swimming and R see Greg's articles at ", a("Swimming + Data Science", href = 'https://pilgrim.netlify.app/'), "."),
+
                       ),
           HTML('<img src="GregPicCrop.png", height="200px"'),
           br()
@@ -397,13 +400,13 @@ ui <- fluidPage(
           br(),
           hr(),
           h5("Sources:"),
-          h6(      
+          h6(
             p("Swimming Information from ",
-              a("USA Swimming", 
+              a("USA Swimming",
                 href = "https://www.usaswimming.org/Home/times/ncaa-information"))),
-          h6(      
+          h6(
             p("US News College Rankings from ",
-              a("US News", 
+              a("US News",
                 href = "https://www.usnews.com/best-colleges/rankings"))),
           h5("Built with",
              img(src = "https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png", height = "30px"),
@@ -419,7 +422,7 @@ ui <- fluidPage(
 server <- function(input, output, session) {
 
   #Program Finder
-  
+
   TimeFinderDF <- reactive({
     req(input$TimeFinderMin)
     TimeFinderDF <- as.data.frame(c(input$TimeFinderMin, input$TimeFinderMax))
@@ -432,7 +435,7 @@ server <- function(input, output, session) {
   TimeFinderDF <- TimeFinderDF %>%
     mutate(Time = (TimeFinderDF$min*60) + TimeFinderDF$sec)
   })
-  
+
   BigTop100_finder <- reactive({
     req(input$DivisionFinder)
     req(input$RegionFinder)
@@ -452,19 +455,19 @@ server <- function(input, output, session) {
       dplyr::mutate(Entries = n()) %>%
       dplyr::mutate(MinTime = mmss_format(min(Time))) %>%
       dplyr::mutate(MaxTime = mmss_format(max(Time)))
-                      
+
   })
-  
+
   fiftystatesCAN_Finder <- reactive({
     req(input$RegionFinder)
     filter(fiftystatesCAN, GeoRegion %in% input$RegionFinder)
-  })   
-  
+  })
+
   uniquecities_Finder <- reactive({
     req(input$RegionFinder)
     filter(uniquecities, Region %in% input$RegionFinder) %>%
       filter(Team %in% BigTop100_finder()$Team)
-  })   
+  })
 
   output$scatterplotFinder <- renderPlot({
     input$EnterTimes
@@ -511,49 +514,49 @@ server <- function(input, output, session) {
           theme(plot.background = element_rect(
             color = "white"
           ))
-        
+
       }
     })
   })
-  
+
   user_clickFinder <- reactiveValues()
   reactive({
     user_clickFinder$DT <- data.frame(matrix(0, ncol = ncol(BigTop100), nrow = 1))
     names(user_clickFinder$DT) <- colnames(BigTop100)
   })
-  
+
   observeEvent(input$click_plotFinder, {
     add_row <-     nearPoints(BigTop100_finder(), input$click_plotFinder, xvar = "lon", yvar = "lat", threshold = 5)
     user_clickFinder$DT <- rbind(add_row, user_clickFinder$DT)
   })
-  
+
   brushFinder <- reactive({
     req(length(user_clickFinder$DT) > 1)
     user_clickFinder$DT
-  })  
-  
+  })
+
   observeEvent({
     input$FinderClear
     #input$EnterTimes
   },{
     user_clickFinder$DT <- NULL
   })
-  
+
   output$schoolstableFinder<-DT::renderDataTable({
-    
-    DT::datatable(unique(brushFinder()[,c("Name", "Class", "X.swim_time", "Team", "Relative_RankInEvent_Team", "Division", "Address", "Y2019", "Type", "Time")]), 
-                  colnames = c("Sort" = "Time", "Time" = "X.swim_time", "US News School Ranking" = "Y2019", "School Type" = "Type", "Swimmer Rank In Event On Team" = "Relative_RankInEvent_Team"), 
-                  rownames = FALSE, 
+
+    DT::datatable(unique(brushFinder()[,c("Name", "Class", "X.swim_time", "Team", "Relative_RankInEvent_Team", "Division", "Address", "Y2019", "Type", "Time")]),
+                  colnames = c("Sort" = "Time", "Time" = "X.swim_time", "US News School Ranking" = "Y2019", "School Type" = "Type", "Swimmer Rank In Event On Team" = "Relative_RankInEvent_Team"),
+                  rownames = FALSE,
                   options = list(order = list(9, 'asc'),
                                  columnDefs = list(list(visible=FALSE, targets=c(9)),
                                                    list(className = "dt-center", targets = 1:7),
                                                    list(classname = "dt-right", targets = 8))
                   ))
-    
+
   })
-  
+
   #Program Comparisons
-  
+
   BigTop100_SchoolComp <- reactive({
     req(input$SchoolCompGender)
     req(input$SchoolSelectA)
@@ -561,12 +564,12 @@ server <- function(input, output, session) {
     filter(BigTop100, Sex %in% input$SchoolCompGender) %>%
       filter(Event %in% input$SchoolCompRace) %>%
       filter(Team %in% input$SchoolSelectA | Team %in% input$SchoolSelectB)
-    
+
   })
   reactive({
     BigTop100_SchoolComp$Time <- as.numeric(format(BigTop100_SchoolComp()$Time, nsmall = 2))
   })
-  
+
   output$SchoolCompPlotEvent <- renderPlot({
     ggplot(data = BigTop100_SchoolComp(), aes(y = Time, x = Team, color = Team)) +
       geom_boxplot(outlier.shape = NA) +
@@ -582,24 +585,24 @@ server <- function(input, output, session) {
             legend.title = element_text(size = 15),
             axis.text.x = element_text(size = 15),
             axis.text.y = element_text(size = 15))
-    
-    
-  }) 
-  
+
+
+  })
+
   output$SchoolCompDT<-DT::renderDataTable({
-    DT::datatable(BigTop100_SchoolComp()[,c("Name", "Team", "X.swim_time", "Class", "Rank", "Division", "Time")], 
-                  colnames = c("Sort" = "Time", "Time" = "X.swim_time"), 
+    DT::datatable(BigTop100_SchoolComp()[,c("Name", "Team", "X.swim_time", "Class", "Rank", "Division", "Time")],
+                  colnames = c("Sort" = "Time", "Time" = "X.swim_time"),
                   rownames = FALSE,
                   options = list(order = list(6, 'asc'),
                                  columnDefs = list(list(visible=FALSE, targets=6),
                                                    list(className = "dt-center", targets = 1:5)
                                                    #list(className = "dt-right", targets = 5)
                                  ))
-                  
+
     )
   })
-  
-  
+
+
   output$SchoolCompStats<-DT::renderDataTable({
     if(input$TuitionType == "Yes"){
       DT::datatable(unique(BigTop100_SchoolComp()[,c("Team", "Type", "Y2019", "Tuition_In", "Enrollment", "Public")]),
@@ -608,7 +611,7 @@ server <- function(input, output, session) {
                     options = list(order = list(0, 'asc'),
                                    columnDefs = list(list(className = "dt-center", targets = 1:5)),
                                    dom = 't'
-                                   
+
                     ))
     }
     else if(input$TuitionType == "No"){
@@ -621,9 +624,9 @@ server <- function(input, output, session) {
                     ))
     }
   })
-  
+
   #Division Comparisons
-  
+
   BigTop100_subsetACA_DI <- reactive({
     req(input$GenderDI)
     req(input$RegionDI)
@@ -662,7 +665,7 @@ server <- function(input, output, session) {
       group_by(Team) %>%
       dplyr::mutate('No. of Top Times' = n())
   })
-  
+
   BigTop100_DivCompA <- reactive({
     req(input$DivCompGenderA)
     req(input$DivCompRankA)
@@ -674,7 +677,7 @@ server <- function(input, output, session) {
   reactive({
   BigTop100_DivCompA$Time <- as.numeric(format(BigTop100_DivCompA()$Time, nsmall = 2))
   })
-  
+
 
   output$barplotDI <- renderPlot({
     ggplot() +
@@ -684,12 +687,12 @@ server <- function(input, output, session) {
     scale_fill_manual(values = c("National University" = "#1E90FF", "National Liberal Arts College" = "#FD1EFF", "Regional College" = "#FF8D1E", "Regional University" = "#20FF1E"), aesthetics = "fill") +
     theme_void()
   })
-  
+
   output$description_DI <- renderText({
     paste0("Division I is primarily made of national universities, with a sizable subset of regional universities.
            There are relatively few colleges.")
   })
-  
+
   output$barplotDII <- renderPlot({
     ggplot() +
       geom_bar(data = BigTop100_subsetACA_DII(), aes(x = Division, y = (..count../sum(..count..)*100), fill = Type)) +
@@ -698,7 +701,7 @@ server <- function(input, output, session) {
       coord_polar("y", start=0) +
       theme_void()
   })
- 
+
   output$description_DII <- renderText({
     paste0("Division II is primarily made of regional universities, with a national universities as the second largest component.
            There are relatively few national or regional colleges.")
@@ -711,13 +714,13 @@ server <- function(input, output, session) {
       scale_fill_manual(values = c("National University" = "#1E90FF", "National Liberal Arts College" = "#FD1EFF", "Regional College" = "#FF8D1E", "Regional University" = "#20FF1E"), aesthetics = "fill") +
       coord_polar("y", start=0) +
       theme_void()
-  })  
+  })
 
   output$description_DIII <- renderText({
-    paste0("Division III is primarily made of national universities and national liberal arts colleges.  
+    paste0("Division III is primarily made of national universities and national liberal arts colleges.
           Regional universities and colleges are a smaller component")
   })
-  
+
   output$DivCompPlotA <- renderPlot({
       ggplot(data = BigTop100_DivCompA(), aes(y = Time, x = Division, color = Division)) +
       geom_violin() +
@@ -733,42 +736,42 @@ server <- function(input, output, session) {
             legend.title = element_text(size = 15),
             axis.text.x = element_text(size = 15),
             axis.text.y = element_text(size = 15))
-  }) 
+  })
 
   #using brush plot
-  
+
   brushDiv <- reactive({
     user_brushDiv <- input$brush_plotDiv
-    brushedPoints(BigTop100_DivCompA(), user_brushDiv, xvar = "Division", yvar = 
+    brushedPoints(BigTop100_DivCompA(), user_brushDiv, xvar = "Division", yvar =
                     "Time")
   })
-  
+
   observeEvent(input$DivCompClear, {
     brushDiv <- NULL
   })
-  
+
   #using click plot
-  
+
   # user_clickDiv <- reactiveValues()
   # reactive({
   #   user_clickDiv$DT <- data.frame(matrix(0, ncol = ncol(BigTop100_DivCompA()), nrow = 1))
   #   names(user_clickDiv$DT) <- colnames(BigTop100_DivCompA())
   # })
-  # 
+  #
   # observeEvent(input$click_plotDiv, {
   #   add_row <-     nearPoints(BigTop100_DivCompA(), input$click_plotDiv, xvar = "Division", yvar = "Time", threshold = 8)
   #   user_clickDiv$DT <- rbind(add_row, user_clickDiv$DT)
   # })
-  # 
+  #
   # brushDiv <- reactive({
   #   req(length(user_clickDiv$DT) > 1)
   #   user_clickDiv$DT
   # })
-  # 
+  #
   # observeEvent(input$DivCompClear, {
   #   user_clickDiv$DT <- NULL
   # })
-  
+
   output$DivCompTable<-DT::renderDataTable({
     DT::datatable(unique(brushDiv()[,c("Name", "Team", "X.swim_time", "Rank", "Division", "Time")]),
                   colnames = c("Sort" = "Time", "Time" = "X.swim_time", "Rank In Division" = "Rank"),
@@ -779,9 +782,9 @@ server <- function(input, output, session) {
                                  ))
     )
   })
-  
+
   #session$onSessionEnded(stopApp)
-}  
-# Run the application 
+}
+# Run the application
 shinyApp(ui = ui, server = server)
 
